@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
 }
+
 nav {
     background: #0b3372;
 }
@@ -27,4 +28,7 @@ li{
     float: left;
     border-right: 1px solid #bbb ;
 
+}
+li:hover{
+    background: #5275ff;
 }
