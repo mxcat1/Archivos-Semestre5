@@ -1,0 +1,22 @@
+.name{
+    font-family: Sylfaen ;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+.dato-mio{
+    font-family: Sylfaen ;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: bold;
+    color: white;
+}
+.datos{
+    width: 60%;
+    display: block;
+
+}
+.target  li{
+    float: left;
+}

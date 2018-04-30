@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="csss/estilos.css">
+    <title>Document</title>
+</head>
+<body background="img/fondo.jpg">
+
+<header>
+    <canvas id="iconoinicio" width="50" height="50" style="border: 1px solid black"></canvas>
+    <span class="name"> Christian VIlca Apaza</span>
+    <section>
+        <article>
+            <div class="datos">
+                <h2 style="color: white;">Datos</h2>
+                <ul class="target">
+                    <li>
+                        <ul class="datos-ul">
+                            <li>
+                                <p class="dato-mio">Edad: 20</p>
+                            </li>
+                            <li>
+                                <p class="dato-mio">fecha de Nacimiento: 01/12/1997</p>
+                            </li>
+                            <li>
+                                <p class="dato-mio">Signo: Sagitario</p>
+                            </li>
+                            <li>
+                                <p class="dato-mio">Comida Favorita: Lo que sea</p>
+                            </li>
+                        </ul>
+                    </li>
+                    <li>
+                        <div class="mifoto">
+                            <img src="img/088bed343530d747ed9a4715be7727bc1267227885_large.jpg" alt="">
+                        </div>
+                    </li>
+
+                </ul>
+            </div>
+
+        </article>
+    </section>
+</header>
+<section>
+    <article>
+
+    </article>
+</section>
+<section>
+    <article></article>
+</section>
+<footer>
+    <article>
+        
+    </article>
+</footer>
+
+</body>
+<script type="text/javascript">
+
+    var micolor="white";
+    var otrocolor ="grey";
+    var colorblanco="white";
+    var escala=0.5;
+
+    //Dibujo del icono sobre mi
+
+    var c=document.getElementById("iconoinicio");
+    var cxt=c.getContext("2d");
+
+    cxt.fillStyle=micolor;
+    cxt.beginPath();
+    cxt.arc(escala*50,escala*25,escala*20,0,Math.PI*2,true);
+    cxt.closePath();
+    cxt.fill();
+    cxt.fillStyle=micolor;
+    cxt.beginPath();
+    cxt.arc(escala*50,escala*90,escala*40,Math.PI,Math.PI*2,false);
+    cxt.closePath();
+    cxt.fill();
+</script>
+</html>
