@@ -13,7 +13,20 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/HTML5/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+              <folding>
+                <element signature="n#style#0;n#h2#0;n#div#0;n#article#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,297 +87,12 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
-  <component name="ProjectUserFactors">
-    <factor id="binaryFeature:liftShorter">
-      <dailyData date="29-4-2018">
-        <observation name="false" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:liftShorterClasses">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:middleMatching">
-      <dailyData date="29-4-2018">
-        <observation name="false" value="164,0" />
-        <observation name="true" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:nonGeneric">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_inResolveScope">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="false" value="4,0" />
-        <observation name="true" value="14,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_openedInEditor">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="false" value="14,0" />
-        <observation name="true" value="4,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sameDirectory">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="false" value="18,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sameLogicalRoot">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="false" value="18,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:prox_sdkOrLibrary">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="false" value="18,0" />
-      </dailyData>
-    </factor>
-    <factor id="binaryFeature:templates">
-      <dailyData date="29-4-2018">
-        <observation name="false" value="154,0" />
-        <observation name="true" value="11,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:accessible">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:expectedType">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:kind">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:prox_groovyReferenceListWeigher">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:prox_javaInheritance">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:prox_referenceList">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="categorialFeature:recursion">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionFinishedType">
-      <dailyData date="29-4-2018">
-        <observation name="cancelled" value="392,0" />
-        <observation name="explicitSelect" value="134,0" />
-        <observation name="typedSelect" value="31,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionType">
-      <dailyData date="29-4-2018">
-        <observation name="BASIC" value="323,0" />
-      </dailyData>
-    </factor>
-    <factor id="completionUsage">
-      <dailyData date="29-4-2018">
-        <observation name="count" value="557,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:explicitProximity">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:grouping">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:mostUsed">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:nameEnd">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:position">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="0,808511" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="29,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="5,9509" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prefix">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="-864,218845" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="-1154,0" />
-        <observation name="variance" value="216533,864584" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:priority">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="4371290297537547500000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="�" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_explicitlyImported">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_knownElement">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_sameModule">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="147,0" />
-        <observation name="average" value="1,657143" />
-        <observation name="count" value="35,0" />
-        <observation name="max" value="2,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,310915" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:prox_samePsiMember">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:query_length">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="0,0" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="0,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:result_length">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="6,817629" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="46,0" />
-        <observation name="min" value="1,0" />
-        <observation name="variance" value="34,804191" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:sameWords">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:shorter">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:simple">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:sorter">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="1,0" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="1,0" />
-        <observation name="min" value="1,0" />
-        <observation name="variance" value="0,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:statics">
-      <dailyData date="29-4-2018">
-        <observation name="UNDEFINED" value="165,0" />
-      </dailyData>
-    </factor>
-    <factor id="doubleFeature:stats">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="7793,18541" />
-        <observation name="count" value="329,0" />
-        <observation name="max" value="10000,0" />
-        <observation name="min" value="0,0" />
-        <observation name="variance" value="15381122,127738" />
-      </dailyData>
-    </factor>
-    <factor id="itemPosition">
-      <dailyData date="29-4-2018">
-        <observation name="0" value="68,0" />
-        <observation name="1" value="49,0" />
-        <observation name="2" value="8,0" />
-        <observation name="29" value="1,0" />
-        <observation name="3" value="2,0" />
-        <observation name="4" value="5,0" />
-        <observation name="6" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="mnemonicsUsage">
-      <dailyData date="29-4-2018">
-        <observation name="total" value="91,0" />
-        <observation name="withMnemonics" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="prefixLength">
-      <dailyData date="29-4-2018">
-        <observation name="0" value="41,0" />
-        <observation name="1" value="2,0" />
-        <observation name="10" value="2,0" />
-        <observation name="2" value="22,0" />
-        <observation name="3" value="18,0" />
-        <observation name="4" value="34,0" />
-        <observation name="5" value="7,0" />
-        <observation name="6" value="6,0" />
-        <observation name="7" value="1,0" />
-        <observation name="9" value="1,0" />
-      </dailyData>
-    </factor>
-    <factor id="timeBetweenTyping">
-      <dailyData date="29-4-2018">
-        <observation name="average" value="235,77305" />
-        <observation name="count" value="282,0" />
-      </dailyData>
-    </factor>
-  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -372,11 +100,21 @@
               <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -464,11 +202,12 @@
       <workItem from="1524771826751" duration="7000" />
       <workItem from="1524785537890" duration="643000" />
       <workItem from="1525013511003" duration="5737000" />
+      <workItem from="1525111823404" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35135000" />
+    <option name="totallyTimeSpent" value="35816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -633,42 +372,6 @@
     <entry file="file://$PROJECT_DIR$/Clase Practica 2/titulo.html" />
     <entry file="file://$PROJECT_DIR$/Clase Practica 2/modelos.html" />
     <entry file="file://$PROJECT_DIR$/Clase Practica 2/css/estilos.css" />
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/fondo_08.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/piehde.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/Scan0004.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/556453_4463400348320_1673608756_n.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/ACREDITACION.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/29694577_1628215113964258_5371585622307888820_n.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/convocatoria.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/footerfacebookicon.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/FOTOS ISPHDE.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/INSTRANET ISPHDE.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/img/logo de isphde y arequipa1 FILEminimizer.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tarea_clase2.1/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-3723" />
@@ -704,11 +407,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="17" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="17" />
-          <folding>
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#strong#1;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,6 +421,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/HTML5/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#article#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
