@@ -4,7 +4,7 @@
 }
 
 nav {
-    background: #0b3372;
+    background: #024283;
 }
 ul{
     margin: 0px;
@@ -31,4 +31,36 @@ li{
 }
 li:hover{
     background: #5275ff;
+}
+.presentacion{
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/logo de isphde y arequipa1 FILEminimizer.jpg");
+    height: 380px;
+    width: auto;
+}
+#contenido{
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    width: 648px;
+    height: 480px;
+}
+.contenidop{
+    text-align: center;
+}
+.articulo{
+    background: #00c9f0;
+    width: 900px;
+    margin-left: 100px;
+}
+#titulo{
+    background: #0b3372;
+    color: white;
+    margin: 10px;
+    font-family: "Arial Black";
+    height: 30px;
+}
+.title{
+    margin: 0 10px 0 5px;
 }
