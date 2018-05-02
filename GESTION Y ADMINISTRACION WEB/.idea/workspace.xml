@@ -13,15 +13,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/HTML5/index.html">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/PERFIL/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+            <state relative-caret-position="255">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
               <folding>
-                <element signature="n#style#0;n#h2#0;n#div#0;n#article#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="estilos.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/PERFIL/css/estilos.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -55,11 +64,16 @@
         <option value="$PROJECT_DIR$/Tarea_clase2/contenido.html" />
         <option value="$PROJECT_DIR$/Tarea_clase2/estilos.css" />
         <option value="$PROJECT_DIR$/Tarea_clase2/cabecera.html" />
-        <option value="$PROJECT_DIR$/Tarea_clase2/contenido1.html" />
         <option value="$PROJECT_DIR$/Tarea_clase2/index.html" />
         <option value="$PROJECT_DIR$/Tarea_clase2/contenido2.html" />
-        <option value="$PROJECT_DIR$/Tarea_clase2/css/estilos.css" />
         <option value="$PROJECT_DIR$/Tarea_clase2/nuestro_director.html" />
+        <option value="$PROJECT_DIR$/CLASE3_HTML5/HTML5/index.html" />
+        <option value="$PROJECT_DIR$/CLASE3_HTML5/HTML5/csss/estilos.css" />
+        <option value="$PROJECT_DIR$/Tarea_clase2/css/estilos.css" />
+        <option value="$PROJECT_DIR$/Tarea_clase2/contenido1.html" />
+        <option value="$PROJECT_DIR$/Tarea_clase2/css/menuestilos.css" />
+        <option value="$PROJECT_DIR$/CLASE3_HTML5/PERFIL/index.html" />
+        <option value="$PROJECT_DIR$/CLASE3_HTML5/PERFIL/css/estilos.css" />
       </list>
     </option>
   </component>
@@ -87,6 +101,296 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="1-5-2018">
+        <observation name="false" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="1-5-2018">
+        <observation name="false" value="147,0" />
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="false" value="1,0" />
+        <observation name="true" value="9,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="false" value="10,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="false" value="10,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="false" value="10,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="false" value="10,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="1-5-2018">
+        <observation name="false" value="142,0" />
+        <observation name="true" value="7,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:accessible">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:expectedType">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:kind">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_javaInheritance">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_referenceList">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:recursion">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="1-5-2018">
+        <observation name="cancelled" value="318,0" />
+        <observation name="explicitSelect" value="130,0" />
+        <observation name="typedSelect" value="19,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="1-5-2018">
+        <observation name="BASIC" value="276,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="1-5-2018">
+        <observation name="count" value="468,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="1,333333" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="31,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="10,844681" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="-732,323232" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1154,0" />
+        <observation name="variance" value="261615,862569" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="1210567767584050600000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="�" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="139,0" />
+        <observation name="average" value="2,0" />
+        <observation name="count" value="19,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="2,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="7,003367" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="52,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="45,146273" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="1-5-2018">
+        <observation name="UNDEFINED" value="149,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="7584,387205" />
+        <observation name="count" value="297,0" />
+        <observation name="max" value="10000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="16382045,057349" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="1-5-2018">
+        <observation name="0" value="66,0" />
+        <observation name="1" value="33,0" />
+        <observation name="11" value="2,0" />
+        <observation name="13" value="1,0" />
+        <observation name="2" value="11,0" />
+        <observation name="3" value="6,0" />
+        <observation name="31" value="1,0" />
+        <observation name="4" value="2,0" />
+        <observation name="5" value="3,0" />
+        <observation name="6" value="2,0" />
+        <observation name="7" value="1,0" />
+        <observation name="8" value="1,0" />
+        <observation name="9" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="1-5-2018">
+        <observation name="total" value="67,0" />
+        <observation name="withMnemonics" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="1-5-2018">
+        <observation name="0" value="53,0" />
+        <observation name="1" value="10,0" />
+        <observation name="11" value="1,0" />
+        <observation name="2" value="14,0" />
+        <observation name="3" value="24,0" />
+        <observation name="4" value="19,0" />
+        <observation name="5" value="4,0" />
+        <observation name="6" value="3,0" />
+        <observation name="7" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="1-5-2018">
+        <observation name="average" value="224,408805" />
+        <observation name="count" value="159,0" />
+      </dailyData>
+    </factor>
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -111,6 +415,33 @@
               <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
               <item name="HTML5" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -120,6 +451,7 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="SearchEverywhereHistoryKey" value="80&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -131,18 +463,18 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\CLASE3_HTML5\PERFIL\img" />
+      <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2.1" />
+      <recent name="D:\Honorio Delgado Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2\img" />
+      <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2\img" />
+      <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Honorio Delgado Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2\css" />
       <recent name="D:\Honorio Delgado Semestre V\GESTION Y ADMINISTRACION WEB\OTROS" />
       <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2" />
       <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2\paginas" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2.1" />
-      <recent name="D:\Honorio Delgado Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2\img" />
-      <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2\img" />
-      <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2" />
-      <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Clase Practica 2\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -157,26 +489,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="facebook.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Clase Practica 2/facebook.html" />
+  <component name="RunManager" selected="JavaScript Debug.index.html (3)">
+    <configuration name="contenido1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Tarea_clase2/contenido1.html" />
     <configuration name="index.html (1)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Tarea_clase2.1/index.html" />
+    <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/HTML5/index.html" />
+    <configuration name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/PERFIL/index.html" />
     <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Tarea_clase2/index.html" />
-    <configuration name="noticias.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Clase Practica 2/noticias.html" />
-    <configuration name="titulo.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Clase Practica 2/titulo.html" />
     <list>
-      <item itemvalue="JavaScript Debug.titulo.html" />
-      <item itemvalue="JavaScript Debug.facebook.html" />
-      <item itemvalue="JavaScript Debug.noticias.html" />
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="JavaScript Debug.contenido1.html" />
+      <item itemvalue="JavaScript Debug.index.html (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.contenido1.html" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.noticias.html" />
-        <item itemvalue="JavaScript Debug.facebook.html" />
-        <item itemvalue="JavaScript Debug.titulo.html" />
       </list>
     </recent_temporary>
   </component>
@@ -202,12 +534,13 @@
       <workItem from="1524771826751" duration="7000" />
       <workItem from="1524785537890" duration="643000" />
       <workItem from="1525013511003" duration="5737000" />
-      <workItem from="1525111823404" duration="681000" />
+      <workItem from="1525111823404" duration="7611000" />
+      <workItem from="1525182706604" duration="8359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35816000" />
+    <option name="totallyTimeSpent" value="51105000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -239,6 +572,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="35" lean-forward="true" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/menuestilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3179">
+          <caret line="187" column="12" lean-forward="true" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tarea_clase2/cabecera.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -382,24 +729,10 @@
         <state relative-caret-position="-3876" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Tarea_clase2/cabecera.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="445">
           <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/estilos.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="64" column="24" selection-start-line="64" selection-start-column="24" selection-end-line="64" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -410,27 +743,72 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea_clase2/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-start-line="12" selection-end-line="16" selection-end-column="22" />
+        <state relative-caret-position="289">
+          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/HTML5/csss/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="49" column="1" lean-forward="true" selection-start-line="49" selection-start-column="1" selection-end-line="49" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="54" column="17" lean-forward="true" selection-start-line="54" selection-start-column="17" selection-end-line="54" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido1.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="255">
+          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/menuestilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="187" column="12" selection-start-line="187" selection-start-column="12" selection-end-line="187" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/HTML5/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="20" column="24" lean-forward="true" selection-start-line="20" selection-start-column="24" selection-end-line="20" selection-end-column="24" />
+        <state relative-caret-position="374">
+          <caret line="22" column="32" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#article#0;n#section#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/PERFIL/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#header#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CLASE3_HTML5/PERFIL/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
         </state>
       </provider>
     </entry>

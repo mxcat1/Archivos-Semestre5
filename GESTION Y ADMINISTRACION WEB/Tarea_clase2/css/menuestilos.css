@@ -1,0 +1,190 @@
+body {
+    background-image: url("../img/fondo_08.jpg");
+}
+
+.presentacion {
+    margin: 0px;
+    padding: 0px;
+    background: url("../img/logo de isphde y arequipa1 FILEminimizer.jpg");
+    height: 380px;
+    width: auto;
+}
+
+#menu-carreras {
+    width: 1100px;
+    height: 250px;
+    margin-left: 115px;
+    background-color: #00c9f0;
+}
+
+.carreras > li {
+    float: left;
+}
+
+.cra01 {
+    display: block;
+    background-image: url("../img/01.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra01:hover {
+    width: 310px;
+}
+
+.cra02 {
+    display: block;
+    background-image: url("../img/02.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra02:hover {
+    width: 310px;
+}
+
+.cra03 {
+    display: block;
+    background-image: url("../img/03.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra03:hover {
+    width: 310px;
+}
+
+.cra04 {
+    display: block;
+    background-image: url("../img/04.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra04:hover {
+    width: 310px;
+}
+
+.cra05 {
+    display: block;
+    background-image: url("../img/05.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra05:hover {
+    width: 310px;
+}
+
+.cra06 {
+    display: block;
+    background-image: url("../img/06.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra06:hover {
+    width: 310px;
+}
+
+.cra07 {
+    display: block;
+    background-image: url("../img/07.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra07:hover {
+    width: 310px;
+}
+
+.cra08 {
+    display: block;
+    background-image: url("../img/08.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra08:hover {
+    width: 310px;
+}
+
+.cra09 {
+    display: block;
+    background-image: url("../img/09.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra09:hover {
+    width: 310px;
+}
+
+.cra10 {
+    display: block;
+    background-image: url("../img/10.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra10:hover {
+    width: 310px;
+}
+
+.cra11 {
+    display: block;
+    background-image: url("../img/11.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra11:hover {
+    width: 310px;
+}
+
+.cra12 {
+    display: block;
+    background-image: url("../img/12.jpg");
+    transition: width 3s;
+    -webkit-transition: width 3s;
+    -o-transition: width 3s;
+    width: 65px;
+    height: 247px;
+}
+
+.cra12:hover {
+    width: 310px;
+}

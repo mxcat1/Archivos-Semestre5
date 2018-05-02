@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1,h2,h3,h4,h5,h6,p{
+    color: white;
+    font-weight: bold;
+}
+header{
+    background-color: #0b0b86 ;
+
+    height: 313px;
+    width:  auto;
+}
+.foto-perfil{
+    display: block;
+    height: 120px;
+    width: 100px;
+    position: relative;
+    left: 15px;
+    top: 130px;
+
+}
+.nombre-perfil{
+    display: block;
+    position: relative;
+    left: 200px;
+    top: 130px;
+    box-shadow: 3px 3px 5px #0f0f0f;
+    width: 250px;
+}
+#presentacion{
+    width: 300px;
+    height: auto;
+    background: #0b0b86;
+    text-align: center;
+}
