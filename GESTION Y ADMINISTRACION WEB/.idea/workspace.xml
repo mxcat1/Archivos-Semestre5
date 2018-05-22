@@ -13,13 +13,23 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -52,6 +62,7 @@
         <option value="$PROJECT_DIR$/Tarea_clase2/css/menuestilos.css" />
         <option value="$PROJECT_DIR$/CLASE3_HTML5/PERFIL/index.html" />
         <option value="$PROJECT_DIR$/CLASE3_HTML5/PERFIL/css/estilos.css" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html" />
       </list>
     </option>
   </component>
@@ -79,6 +90,59 @@
     <option name="width" value="1346" />
     <option name="height" value="688" />
   </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter" />
+    <factor id="binaryFeature:liftShorterClasses" />
+    <factor id="binaryFeature:middleMatching" />
+    <factor id="binaryFeature:nonGeneric" />
+    <factor id="binaryFeature:prox_inResolveScope" />
+    <factor id="binaryFeature:prox_openedInEditor" />
+    <factor id="binaryFeature:prox_sameDirectory" />
+    <factor id="binaryFeature:prox_sameLogicalRoot" />
+    <factor id="binaryFeature:prox_sdkOrLibrary" />
+    <factor id="binaryFeature:templates" />
+    <factor id="categorialFeature:accessible" />
+    <factor id="categorialFeature:expectedType" />
+    <factor id="categorialFeature:kind" />
+    <factor id="categorialFeature:prox_groovyReferenceListWeigher" />
+    <factor id="categorialFeature:prox_javaInheritance" />
+    <factor id="categorialFeature:prox_referenceList" />
+    <factor id="categorialFeature:recursion" />
+    <factor id="completionFinishedType">
+      <dailyData date="19-5-2018">
+        <observation name="cancelled" value="14,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType" />
+    <factor id="completionUsage">
+      <dailyData date="19-5-2018">
+        <observation name="count" value="14,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity" />
+    <factor id="doubleFeature:grouping" />
+    <factor id="doubleFeature:mostUsed" />
+    <factor id="doubleFeature:nameEnd" />
+    <factor id="doubleFeature:position" />
+    <factor id="doubleFeature:prefix" />
+    <factor id="doubleFeature:priority" />
+    <factor id="doubleFeature:prox_explicitlyImported" />
+    <factor id="doubleFeature:prox_knownElement" />
+    <factor id="doubleFeature:prox_sameModule" />
+    <factor id="doubleFeature:prox_samePsiMember" />
+    <factor id="doubleFeature:query_length" />
+    <factor id="doubleFeature:result_length" />
+    <factor id="doubleFeature:sameWords" />
+    <factor id="doubleFeature:shorter" />
+    <factor id="doubleFeature:simple" />
+    <factor id="doubleFeature:sorter" />
+    <factor id="doubleFeature:statics" />
+    <factor id="doubleFeature:stats" />
+    <factor id="itemPosition" />
+    <factor id="mnemonicsUsage" />
+    <factor id="prefixLength" />
+    <factor id="timeBetweenTyping" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -94,40 +158,13 @@
             <path>
               <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
+              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="CLASE3_HTML5" type="462c0819:PsiDirectoryNode" />
-              <item name="PERFIL" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -227,11 +264,12 @@
       <workItem from="1525237348467" duration="8000" />
       <workItem from="1526319492688" duration="671000" />
       <workItem from="1526444658804" duration="4000" />
+      <workItem from="1526774487054" duration="1526000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="51788000" />
+    <option name="totallyTimeSpent" value="53314000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -522,6 +560,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="462">
           <caret line="35" column="22" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>

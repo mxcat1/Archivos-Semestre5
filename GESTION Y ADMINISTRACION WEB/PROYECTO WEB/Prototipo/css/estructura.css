@@ -1,0 +1,90 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+header{
+    width: auto;
+    height: auto;
+    background: #62b7ff;
+}
+footer{
+    width: auto;
+    height: 100px;
+    height: 100px;
+    background: black;
+    color: aliceblue;
+}
+#copyright{
+    padding: 15px;
+}
+#titulo{
+    font-family: "Book Antiqua";
+    text-align: center;
+    height: 80px;
+    background: #00dcff;
+    color: #0064ff;
+}
+#titulo>h1{
+    padding: 15px;
+    font-size: 50px;
+    display: inline-block;
+
+}
+#logo{
+    padding: 15px;
+    position: absolute;
+    left: 0px;
+}
+
+#menu-principal{
+    background-color: #0034a1;
+}
+li{
+    display: inline-block;
+    list-style: none;
+    width: 150px;
+    height: 50px;
+}
+li>h3{
+    text-align: center;
+    padding: 10px;
+}
+li>h3>a{
+    text-decoration: none;
+    color: aliceblue;
+}
+li:hover{
+    background: #2300aa;
+}
+section>#noticias{
+    background-color: cornsilk;
+}
+section>#noticias>#not1{
+    width: 50%;
+    background-color: #62b7ff;
+    display: inline-block;
+
+}
+section>#noticias>#not2{
+    width: 50%;
+    background-color: #62b7ff;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+
+}
+section>#noticias>#not3{
+    width: 50%;
+    background-color: #62b7ff;
+    display: inline-block;
+
+}
+section>#noticias>#not4{
+    width: 50%;
+    background-color: #62b7ff;
+    display: inline-block;
+    position: absolute;
+    right: 0px;
+
+}
