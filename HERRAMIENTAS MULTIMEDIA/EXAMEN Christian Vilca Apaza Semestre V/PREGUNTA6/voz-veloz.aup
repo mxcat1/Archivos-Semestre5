@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="voz-veloz_data" version="1.3.0" audacityversion="2.2.2" sel0="0.0000000000" sel1="47.5808072562" vpos="0" h="0.0000000000" zoom="20.1930159534" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milisegundos" frequencyformat="Hz" bandwidthformat="octavas">
+	<tags>
+		<tag name="YEAR" value="2018-05-23T11:22:54-05:00"/>
+	</tags>
+	<wavetrack name="Voz" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" isSelected="1" rate="11025" gain="1.0" pan="0.0" colorindex="0">
+		<waveclip offset="0.00000000" colorindex="0">
+			<sequence maxsamples="524288" sampleformat="131073" numsamples="524578">
+				<waveblock start="0">
+					<simpleblockfile filename="e080875d.au" len="262144" min="-0.344421" max="0.357391" rms="0.112795"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0808f0e.au" len="262144" min="-0.349274" max="0.360321" rms="0.114139"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0808949.au" len="290" min="-0.257355" max="0.239441" rms="0.095079"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>

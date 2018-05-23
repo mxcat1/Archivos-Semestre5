@@ -10,12 +10,21 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="validarform.js" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="validarform.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="408">
-              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
             </state>
           </provider>
         </entry>
@@ -56,7 +65,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP(WAMP)" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.1" />
   <component name="ProjectFrameBounds">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -145,11 +154,12 @@
       <workItem from="1526391891287" duration="11262000" />
       <workItem from="1526997949347" duration="9176000" />
       <workItem from="1527022335681" duration="3120000" />
+      <workItem from="1527085176521" duration="643000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24922000" />
+    <option name="totallyTimeSpent" value="25565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
@@ -183,6 +193,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta1/index.php" />
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta2/index.php" />
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta3/index.php" />
@@ -217,17 +234,17 @@
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta4/index.php" />
     <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/css/estilos.css" />
     <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/pagina2.php" />
-    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="42" column="46" selection-start-line="42" selection-start-column="46" selection-end-line="42" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
         </state>
       </provider>
     </entry>
