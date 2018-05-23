@@ -1,3 +1,4 @@
+
 function validar() {
     let texto= document.getElementById("txtValor").value
     if (texto == '' || /^\s+$/.test(texto)){
@@ -28,19 +29,25 @@ function validar() {
         console.log("Elemento ID"+hola)
 
         if (elemento.type == "checkbox"){
-            if (!elemento.checked){
-                alert("Falta Checks"+i)
-                return false
-
-            }
-            // if (elemento.checked){
-            //     conta++
-            //     if (conta==2){
-            //         break
-            //     }
+            // if (!elemento.checked){
+            //     alert("Falta Checks"+i)
+            //     return false
+            //
             // }
+            if (elemento.checked && elemento.id!="chkcheck"){
+                conta++
+                // if (conta==2){
+                //     break
+                // }
+            }
         }
     }
+    console.log(conta)
+    if(conta!=2){
+        alert("No marcaste dos opciones")
+        return false
+    }
+
     let rbop=document.getElementsByName("rbopcion")
     let seleccionado =false
     for (let q=0;q<rbop.length;q++){
