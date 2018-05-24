@@ -1,0 +1,17 @@
+BOTON OFF:
+
+on (release) {
+ stopAllSounds();
+}
+on (release) {
+ gotoAndPlay("on");
+}
+
+BOTON ON:
+
+on (release) {
+ loadMovieNum("musica.swf", 7);
+}
+on (release) {
+ gotoAndPlay("off");
+}
