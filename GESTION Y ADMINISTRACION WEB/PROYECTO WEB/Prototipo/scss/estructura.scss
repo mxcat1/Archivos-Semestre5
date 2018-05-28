@@ -1,0 +1,88 @@
+@import "variables-estructura";
+@import "mixin-estructura";
+
+*{
+  margin: 0px;
+  padding: 0px;
+
+}
+header{
+  width: auto;
+  height: 500px;
+  background-image: url("../img/arequipa.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+footer{
+  width: auto;
+  height: 100px;
+  height: 100px;
+  background: $colorfooter;
+  color: $colorfoletra;
+}
+#copyright{
+  padding: $pading;
+}
+#titulo{
+  font-family: "Book Antiqua";
+  height: 80px;
+  color: $colortituloletra;
+  #ntitulo{
+    padding: $pading;
+    font-size: 30px;
+    display: inline-block;
+    font-weight: bold;
+    position: absolute;
+    left: 100px;
+  }
+}
+#logo{
+  padding: $pading;
+  position: absolute;
+  left: 0px;
+}
+
+#menu-principal{
+  position: absolute;
+  right: 0px;
+  padding: 30px;
+}
+li{
+  display: inline-block;
+  list-style: none;
+  width: 100px;
+  height: 40px;
+  h3{
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+
+    a{
+      text-decoration: none;
+      color: aliceblue;
+    }
+  }
+  &:hover{
+    background: #2e4167;
+  }
+}
+section {
+  $par: 0;
+  #noticias {
+    background-color: cornsilk;
+    @for $i from 1 through 4 {
+      $par: floor($i/2);
+      @if ($par*2==$i) {
+        #not#{$i} {
+          @include noticias;
+          position: absolute;
+          right: 0px;
+        }
+      } @else {
+        #not#{$i} {
+          @include noticias;
+        }
+      }
+    }
+  }
+}

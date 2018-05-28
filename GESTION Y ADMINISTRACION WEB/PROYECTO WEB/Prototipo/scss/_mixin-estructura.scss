@@ -1,0 +1,6 @@
+@import "variables-estructura";
+@mixin noticias{
+  width: 50%;
+  background-color: $colornoticias;
+  display: inline-block;
+}
