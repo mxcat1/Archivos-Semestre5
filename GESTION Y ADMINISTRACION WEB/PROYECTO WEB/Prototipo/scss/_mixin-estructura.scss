@@ -4,3 +4,9 @@
   background-color: $colornoticias;
   display: inline-block;
 }
+@mixin noseleccion{
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select:none;
+}

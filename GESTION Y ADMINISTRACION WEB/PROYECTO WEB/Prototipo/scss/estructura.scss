@@ -12,6 +12,8 @@ header{
   background-image: url("../img/arequipa.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  z-index: 1;
+  @include noseleccion;
 }
 footer{
   width: auto;
@@ -19,14 +21,17 @@ footer{
   height: 100px;
   background: $colorfooter;
   color: $colorfoletra;
+  @include noseleccion;
 }
 #copyright{
   padding: $pading;
+  @include noseleccion;
 }
 #titulo{
   font-family: "Book Antiqua";
   height: 80px;
   color: $colortituloletra;
+  @include noseleccion;
   #ntitulo{
     padding: $pading;
     font-size: 30px;
@@ -34,18 +39,23 @@ footer{
     font-weight: bold;
     position: absolute;
     left: 100px;
+    top: 20px;
+    -webkit-text-stroke: 1px #fff;
+    @include noseleccion;
   }
 }
 #logo{
   padding: $pading;
   position: absolute;
-  left: 0px;
+  left: 40px;
+  @include noseleccion;
 }
 
 #menu-principal{
   position: absolute;
   right: 0px;
   padding: 30px;
+  @include noseleccion;
 }
 li{
   display: inline-block;
@@ -53,17 +63,22 @@ li{
   width: 100px;
   height: 40px;
   h3{
-    font-size: 15px;
+    font-size: 14px;
     text-align: center;
     padding: 10px;
-
+    font-weight: bold;
+    &:hover{
+      font-size: 17px;
+    }
     a{
       text-decoration: none;
       color: aliceblue;
     }
   }
   &:hover{
-    background: #2e4167;
+    background: #6b000b;
+    opacity: 0.8;
+    border-radius: 10px;
   }
 }
 section {
