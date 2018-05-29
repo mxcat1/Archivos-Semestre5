@@ -1,0 +1,405 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16581e00-9dec-4782-ac8e-320135a592bb" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.52780485">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="136">
+                  <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estilos-reponsive.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/scss/estilos-reponsive.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="367">
+                  <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estilos-reponsive.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/css/estilos-reponsive.css">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="estilos-reponsive.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/css/estilos-reponsive.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="197">
+                  <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Session04-examen/js/funciones.js" />
+        <option value="$PROJECT_DIR$/Session04-examen/index.php" />
+        <option value="$PROJECT_DIR$/Session04-examen/Pregunta4/index.php" />
+        <option value="$PROJECT_DIR$/Session04-examen/Pregunta3/index.php" />
+        <option value="$PROJECT_DIR$/Session04-examen/Pregunta1/index.php" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/pagina2.php" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/validarform.js" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/estilos.css" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/css/estilos.css" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php" />
+        <option value="$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js" />
+        <option value="$PROJECT_DIR$/Sesion09_archivos/Pagina/sass/estilos.scss" />
+        <option value="$PROJECT_DIR$/Sesion09_archivos/Pagina/scss/estilos.scss" />
+        <option value="$PROJECT_DIR$/Sesion09_archivos/Pagina/index.php" />
+        <option value="$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/scss/estilos.scss" />
+        <option value="$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/index.php" />
+        <option value="$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/scss/estilos-reponsive.scss" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.1" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISEÑO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/watchers.xml" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion09_archivos\Archivos" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\css" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\js" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Session04-examen\Pregunta1" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\session04" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Pagina\otros" />
+      <recent name="E:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Pagina\img" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Session04-examen\Pregunta2" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Session04-examen" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16581e00-9dec-4782-ac8e-320135a592bb" name="Default" comment="" />
+      <created>1524004705689</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524004705689</updated>
+      <workItem from="1524004711283" duration="739000" />
+      <workItem from="1525237629852" duration="625000" />
+      <workItem from="1526391891287" duration="11262000" />
+      <workItem from="1526997949347" duration="9176000" />
+      <workItem from="1527022335681" duration="3120000" />
+      <workItem from="1527085176521" duration="643000" />
+      <workItem from="1527474650118" duration="40000" />
+      <workItem from="1527595967495" duration="11118000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="36723000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="784" extended-state="0" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32874617" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="833">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="61" selection-start-line="29" selection-start-column="61" selection-end-line="29" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="714">
+          <caret line="42" column="5" lean-forward="true" selection-start-line="42" selection-start-column="5" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta1/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta2/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta3/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta4/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/session02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/session02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/session04/js/funciones.js" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/session04/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/session02/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="29" selection-start-line="27" selection-start-column="7" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session03/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta1/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta2/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta3/index.php" />
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Session04-examen/Pregunta4/index.php" />
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/css/estilos.css" />
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/pagina2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="38" column="72" selection-start-line="38" selection-start-column="72" selection-end-line="38" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion08_archivos/Repaso validacion/js/validarform.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion09_archivos/Pagina/css/estilos.css.map">
+      <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="sourcemapFileViewerProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion09_archivos/Pagina/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" lean-forward="true" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion09_archivos/Pagina/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="16" selection-start-line="11" selection-start-column="16" selection-end-line="11" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Sesion09_archivos/Pagina/scss/estilos.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/css/estilos.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Archivos/msj.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="61" selection-end-line="5" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/otros/msj.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/css/estilos-no-reposive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/scss/estilos-no-reposive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" selection-start-line="10" selection-end-line="66" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/scss/estilos-reponsive.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="45" column="14" selection-start-line="45" selection-start-column="14" selection-end-line="45" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/css/estilos-reponsive.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DISENO WEB/Sesion09-archivos/Pagina/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="58" selection-start-line="8" selection-start-column="58" selection-end-line="8" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
