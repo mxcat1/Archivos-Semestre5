@@ -1,0 +1,101 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+body {
+  background: #ffd800; }
+
+.contenedor {
+  background: #a4d9ff;
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden; }
+  .contenedor header {
+    background: #84bfff;
+    padding: 20px; }
+    .contenedor header h1 {
+      background: #709eff;
+      color: #040508;
+      padding: 20px;
+      text-align: center;
+      border: 2px #ff6167; }
+  .contenedor nav {
+    background: #ffc2b6;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%; }
+    .contenedor nav .menu-desplegable {
+      overflow: auto;
+      position: absolute;
+      right: 80px;
+      top: 200px;
+      display: none; }
+      .contenedor nav .menu-desplegable ul li {
+        background: #040508;
+        list-style: none;
+        border-radius: 7px;
+        text-align: center; }
+        .contenedor nav .menu-desplegable ul li a {
+          text-decoration: none;
+          color: white;
+          display: block;
+          font-size: 30px;
+          padding: 5px; }
+        .contenedor nav .menu-desplegable ul li:hover {
+          background: #0d2cff; }
+    .contenedor nav .menu-cel {
+      background: #ffa06c;
+      width: 35px;
+      height: 35px;
+      border-radius: 10px;
+      display: none; }
+      .contenedor nav .menu-cel .menu1 {
+        background: #d9ff8b;
+        display: block;
+        margin: 3px auto;
+        width: 25px;
+        height: 8px;
+        border-radius: 10px; }
+      @media screen and (max-width: 320px) {
+        .contenedor nav .menu-cel {
+          display: inline-block;
+          float: right;
+          box-sizing: border-box; } }
+    @media screen and (max-width: 320px) {
+      .contenedor nav {
+        height: 70px; }
+        .contenedor nav h3 {
+          display: none; } }
+    .contenedor nav:hover > .menu-desplegable {
+      display: block; }
+  .contenedor #main {
+    background: #ffdb89;
+    width: 70%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box; }
+    .contenedor #main img {
+      width: 100%;
+      height: auto; }
+    @media screen and (max-width: 1024px) {
+      .contenedor #main {
+        width: 100%; } }
+  .contenedor aside {
+    background: #c4ffaa;
+    width: 30%;
+    padding: 20px;
+    float: right;
+    box-sizing: border-box; }
+    @media screen and (max-width: 1024px) {
+      .contenedor aside {
+        width: 100%; } }
+  .contenedor footer {
+    width: 100%;
+    height: auto;
+    background: #000000;
+    color: #ffffff;
+    padding: 20px;
+    float: left;
+    box-sizing: border-box; }
+
+/*# sourceMappingURL=estructura.css.map */

@@ -1,0 +1,129 @@
+@import "mixin-medias";
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: #ffd800;
+}
+.contenedor{
+  background: #a4d9ff;
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  header{
+    background: #84bfff;
+    padding: 20px;
+    h1{
+      background: #709eff;
+      color: #040508;
+      padding: 20px;
+      text-align: center;
+      border:2px #ff6167;
+    }
+  }
+  nav{
+    background: #ffc2b6;
+    padding: 20px;
+    box-sizing: border-box;
+    width: 100%;
+    .menu-desplegable{
+      overflow: auto;
+      position: absolute;
+      right: 80px;
+      top: 200px;
+      display: none;
+      ul{
+        li{
+          background: #040508;
+          list-style: none;
+          border-radius: 7px;
+          text-align: center;
+          a{
+            text-decoration: none;
+            color: white;
+            display: block;
+            font-size: 30px;
+            padding: 5px;
+          }
+          &:hover{
+            background: #0d2cff;
+          }
+        }
+
+      }
+    }
+    .menu-cel{
+      background: #ffa06c;
+      width: 35px;
+      height: 35px;
+      border-radius: 10px;
+      display: none;
+      .menu1{
+        background: #d9ff8b;
+        display: block;
+        margin: 3px auto;
+        width: 25px;
+        height: 8px;
+        border-radius: 10px ;
+      }
+      @include medias(320px){
+        &{
+          display: inline-block;
+          float: right;
+          box-sizing: border-box;
+        }
+      }
+    }
+
+    @include medias(320px){
+      &{
+        height: 70px;
+        h3{
+          display: none;
+        }
+      }
+    }
+    &:hover> .menu-desplegable{
+      display: block;
+    }
+  }
+  #main{
+    background: #ffdb89;
+    width: 70%;
+    float: left;
+    padding: 20px;
+    box-sizing: border-box;
+    img{
+      width: 100%;
+      height: auto;
+    }
+    @include medias(1024px){
+      &{
+        width: 100%;
+      }
+    }
+  }
+  aside{
+    background: #c4ffaa;
+    width: 30%;
+    padding: 20px;
+    float: right;
+    box-sizing: border-box;
+    @include medias(1024px){
+      &{
+        width: 100%;
+      }
+    }
+  }
+  footer{
+    width: 100%;
+    height: auto;
+    background: #000000;
+    color: #ffffff;
+    padding: 20px;
+    float: left;
+    box-sizing: border-box;
+  }
+
+}

@@ -1,0 +1,20 @@
+@mixin medias($resolucion){
+  @if($resolucion==1024px){
+    @media screen and (max-width: $resolucion){
+      @content;
+    }
+  }@else if($resolucion==800px){
+    @media screen and (max-width: $resolucion){
+      @content
+    }
+
+  }@else if($resolucion==600px) {
+    @media screen and (max-width: $resolucion) {
+      @content
+    }
+  }@else if($resolucion==320px) {
+    @media screen and (max-width: $resolucion) {
+      @content
+    }
+  }
+}
