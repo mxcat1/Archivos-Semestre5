@@ -61,13 +61,13 @@ body {
           display: inline-block;
           float: right;
           box-sizing: border-box; } }
+      .contenedor nav .menu-cel:hover + .menu-desplegable {
+        display: block; }
     @media screen and (max-width: 320px) {
       .contenedor nav {
         height: 70px; }
         .contenedor nav h3 {
           display: none; } }
-    .contenedor nav:hover > .menu-desplegable {
-      display: block; }
   .contenedor #main {
     background: #ffdb89;
     width: 70%;

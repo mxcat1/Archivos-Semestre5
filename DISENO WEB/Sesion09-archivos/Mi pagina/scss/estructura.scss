@@ -1,4 +1,5 @@
 @import "mixin-medias";
+@import "variables-estructura";
 *{
   margin: 0px;
   padding: 0px;
@@ -13,18 +14,18 @@ body{
   overflow: hidden;
   header{
     background: #84bfff;
-    padding: 20px;
+    padding: $relleno;
     h1{
       background: #709eff;
       color: #040508;
-      padding: 20px;
+      padding: $relleno;
       text-align: center;
       border:2px #ff6167;
     }
   }
   nav{
     background: #ffc2b6;
-    padding: 20px;
+    padding: $relleno;
     box-sizing: border-box;
     width: 100%;
     .menu-desplegable{
@@ -50,7 +51,6 @@ body{
             background: #0d2cff;
           }
         }
-
       }
     }
     .menu-cel{
@@ -74,6 +74,9 @@ body{
           box-sizing: border-box;
         }
       }
+      &:hover+ .menu-desplegable{
+        display: block;
+      }
     }
 
     @include medias(320px){
@@ -84,15 +87,12 @@ body{
         }
       }
     }
-    &:hover> .menu-desplegable{
-      display: block;
-    }
   }
   #main{
     background: #ffdb89;
     width: 70%;
     float: left;
-    padding: 20px;
+    padding: $relleno;
     box-sizing: border-box;
     img{
       width: 100%;
@@ -107,7 +107,7 @@ body{
   aside{
     background: #c4ffaa;
     width: 30%;
-    padding: 20px;
+    padding: $relleno;
     float: right;
     box-sizing: border-box;
     @include medias(1024px){
@@ -121,9 +121,8 @@ body{
     height: auto;
     background: #000000;
     color: #ffffff;
-    padding: 20px;
+    padding: $relleno;
     float: left;
     box-sizing: border-box;
   }
-
 }
