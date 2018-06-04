@@ -136,7 +136,7 @@
             padding: 10px;
             font-weight: bold;
             &:hover{
-              font-size: 17px;
+              font-size: 16px;
             }
             a{
               text-decoration: none;
@@ -185,6 +185,10 @@
         top: 0px;
         z-index: 0;
       }
+      @keyframes trancicion {
+        from{opacity: 0.8;}
+        to{opacity: 1.1;}
+      }
     }
   }
 
@@ -223,6 +227,12 @@
         }
       }
     }
+    #subtitulo-galeria{
+      margin-top: 30px;
+      text-align: center;
+      color: #6a79b0;
+      font-family: "OpenSans-Bold";
+    }
     #galeria-imgs{
       margin: 50px;
       display: flex;
@@ -231,6 +241,12 @@
       img{
         margin-right: 20px;
         margin-bottom: 20px;
+        -webkit-transition: transform 2s;
+        transition: transform 2s;
+      }
+      img:hover{
+        transform: scale(1.20);
+
       }
     }
 

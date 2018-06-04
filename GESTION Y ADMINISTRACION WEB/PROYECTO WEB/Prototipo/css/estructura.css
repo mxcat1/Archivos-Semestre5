@@ -142,7 +142,7 @@
           padding: 10px;
           font-weight: bold; }
           #contenedor #header #titulo #menu-principal li h3:hover {
-            font-size: 17px; }
+            font-size: 16px; }
           #contenedor #header #titulo #menu-principal li h3 a {
             text-decoration: none;
             color: aliceblue; }
@@ -171,6 +171,11 @@
       position: absolute;
       top: 0px;
       z-index: 0; }
+@keyframes trancicion {
+  from {
+    opacity: 0.8; }
+  to {
+    opacity: 1.1; } }
 #contenedor section {
   background: #fff;
   box-sizing: border-box;
@@ -200,6 +205,11 @@
     #contenedor section .presentacion .vela-img img {
       width: 120px;
       height: 100px; }
+  #contenedor section #subtitulo-galeria {
+    margin-top: 30px;
+    text-align: center;
+    color: #6a79b0;
+    font-family: "OpenSans-Bold"; }
   #contenedor section #galeria-imgs {
     margin: 50px;
     display: flex;
@@ -207,7 +217,11 @@
     justify-content: center; }
     #contenedor section #galeria-imgs img {
       margin-right: 20px;
-      margin-bottom: 20px; }
+      margin-bottom: 20px;
+      -webkit-transition: transform 2s;
+      transition: transform 2s; }
+    #contenedor section #galeria-imgs img:hover {
+      transform: scale(1.2); }
 #contenedor footer {
   width: 100%;
   height: 10%;
