@@ -13,32 +13,68 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="estructura.scss" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-578">
-              <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.58926827">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="262">
+                  <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Productos.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-323">
+                  <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estructura.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-353">
+                  <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="js-principal.js" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/js/js-principal.js">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="51">
+                  <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="estructura.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/estructura.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="1241">
+                  <caret line="220" column="9" lean-forward="true" selection-start-line="220" selection-start-column="9" selection-end-line="220" selection-end-column="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
         <option value="SCSS File" />
       </list>
     </option>
@@ -76,10 +112,12 @@
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/estructura.scss" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixinestructura.scss" />
-        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_variables-estructura.scss" />
-        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/js/js-principal.js" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/productos-sass.scss" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss" />
       </list>
     </option>
@@ -103,17 +141,307 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="296" />
+    <option name="y" value="45" />
+    <option name="width" value="842" />
+    <option name="height" value="728" />
+  </component>
+  <component name="ProjectUserFactors">
+    <factor id="binaryFeature:liftShorter">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="8,0" />
+        <observation name="false" value="257,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:liftShorterClasses">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:middleMatching">
+      <dailyData date="3-6-2018">
+        <observation name="false" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:nonGeneric">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_inResolveScope">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="false" value="6,0" />
+        <observation name="true" value="12,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_openedInEditor">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="false" value="16,0" />
+        <observation name="true" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameDirectory">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="false" value="17,0" />
+        <observation name="true" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sameLogicalRoot">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="false" value="18,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:prox_sdkOrLibrary">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="false" value="18,0" />
+      </dailyData>
+    </factor>
+    <factor id="binaryFeature:templates">
+      <dailyData date="3-6-2018">
+        <observation name="false" value="244,0" />
+        <observation name="true" value="21,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:accessible">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:expectedType">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:kind">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_groovyReferenceListWeigher">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_javaInheritance">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:prox_referenceList">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="categorialFeature:recursion">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionFinishedType">
+      <dailyData date="3-6-2018">
+        <observation name="cancelled" value="538,0" />
+        <observation name="explicitSelect" value="233,0" />
+        <observation name="typedSelect" value="32,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionType">
+      <dailyData date="3-6-2018">
+        <observation name="BASIC" value="435,0" />
+      </dailyData>
+    </factor>
+    <factor id="completionUsage">
+      <dailyData date="3-6-2018">
+        <observation name="count" value="803,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:explicitProximity">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="8,0" />
+        <observation name="average" value="0,0" />
+        <observation name="count" value="513,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:grouping">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="8,0" />
+        <observation name="average" value="0,0" />
+        <observation name="count" value="513,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:mostUsed">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:nameEnd">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:position">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0,937618" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="10,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="2,882074" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prefix">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="-799,041588" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="-1155,0" />
+        <observation name="variance" value="254621,638593" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:priority">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="7476228538179760000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="179769313486231570000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000,0" />
+        <observation name="min" value="-101,0" />
+        <observation name="variance" value="�" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_explicitlyImported">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_knownElement">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_sameModule">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="247,0" />
+        <observation name="average" value="1,885714" />
+        <observation name="count" value="35,0" />
+        <observation name="max" value="2,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,171096" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:prox_samePsiMember">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:query_length">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="0,0" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="0,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:result_length">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="6,272212" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="36,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="17,051348" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sameWords">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:shorter">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:simple">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:sorter">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="1,0" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="1,0" />
+        <observation name="min" value="1,0" />
+        <observation name="variance" value="0,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:statics">
+      <dailyData date="3-6-2018">
+        <observation name="UNDEFINED" value="265,0" />
+      </dailyData>
+    </factor>
+    <factor id="doubleFeature:stats">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="7440,599244" />
+        <observation name="count" value="529,0" />
+        <observation name="max" value="10000,0" />
+        <observation name="min" value="0,0" />
+        <observation name="variance" value="16407332,013016" />
+      </dailyData>
+    </factor>
+    <factor id="itemPosition">
+      <dailyData date="3-6-2018">
+        <observation name="0" value="121,0" />
+        <observation name="1" value="69,0" />
+        <observation name="10" value="2,0" />
+        <observation name="2" value="8,0" />
+        <observation name="3" value="11,0" />
+        <observation name="4" value="14,0" />
+        <observation name="5" value="3,0" />
+        <observation name="7" value="3,0" />
+        <observation name="8" value="2,0" />
+      </dailyData>
+    </factor>
+    <factor id="mnemonicsUsage">
+      <dailyData date="3-6-2018">
+        <observation name="total" value="133,0" />
+        <observation name="withMnemonics" value="1,0" />
+      </dailyData>
+    </factor>
+    <factor id="prefixLength">
+      <dailyData date="3-6-2018">
+        <observation name="0" value="81,0" />
+        <observation name="1" value="19,0" />
+        <observation name="11" value="1,0" />
+        <observation name="12" value="1,0" />
+        <observation name="2" value="74,0" />
+        <observation name="3" value="40,0" />
+        <observation name="4" value="7,0" />
+        <observation name="5" value="1,0" />
+        <observation name="6" value="6,0" />
+        <observation name="7" value="3,0" />
+      </dailyData>
+    </factor>
+    <factor id="timeBetweenTyping">
+      <dailyData date="3-6-2018">
+        <observation name="average" value="259,720238" />
+        <observation name="count" value="168,0" />
+      </dailyData>
+    </factor>
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -137,12 +465,20 @@
               <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
               <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
               <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
+              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,7 +486,7 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="SearchEverywhereHistoryKey" value="80&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/watchers.xml" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/Curso_Dise-o_WEB" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.prettier" value="true" />
     <property name="node.js.path.for.package.prettier" value="project" />
@@ -161,11 +497,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\PROYECTO WEB\Prototipo\fonts" />
       <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\PROYECTO WEB\Prototipo\img" />
       <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\PROYECTO WEB\Prototipo\img" />
       <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\CLASE3_HTML5\PERFIL\img" />
       <recent name="D:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2.1" />
-      <recent name="D:\Honorio Delgado Semestre V\GESTION Y ADMINISTRACION WEB\Tarea_clase2\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="E:\Honorio Semestre V\GESTION Y ADMINISTRACION WEB\PROYECTO WEB\Prototipo\scss" />
@@ -187,8 +523,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
-    <configuration name="contenido1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Tarea_clase2/contenido1.html" />
+  <component name="RunManager" selected="JavaScript Debug.Productos.html">
+    <configuration name="Productos.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/PROYECTO WEB/Prototipo/Productos.html" />
     <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/HTML5/index.html" />
     <configuration name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/PERFIL/index.html" />
     <configuration name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/PROYECTO WEB/Prototipo/index.html" />
@@ -196,17 +532,17 @@
     <list>
       <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.index.html (2)" />
-      <item itemvalue="JavaScript Debug.contenido1.html" />
       <item itemvalue="JavaScript Debug.index.html (3)" />
       <item itemvalue="JavaScript Debug.index.html (4)" />
+      <item itemvalue="JavaScript Debug.Productos.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Productos.html" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.contenido1.html" />
       </list>
     </recent_temporary>
   </component>
@@ -243,15 +579,18 @@
       <workItem from="1527537587548" duration="3738000" />
       <workItem from="1527625421926" duration="390000" />
       <workItem from="1527652150187" duration="691000" />
+      <workItem from="1527715993089" duration="7773000" />
+      <workItem from="1527887318010" duration="604000" />
+      <workItem from="1527965998993" duration="632000" />
+      <workItem from="1528068627035" duration="13152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68601000" />
+    <option name="totallyTimeSpent" value="90762000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -263,7 +602,7 @@
       <window_info anchor="bottom" id="CSS-X-Fire" order="8" />
       <window_info anchor="bottom" id="Terminal" order="9" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3990228" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39739415" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -280,123 +619,90 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/cabecera.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        <state relative-caret-position="476">
+          <caret line="28" column="18" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido1.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="680">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido2.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/estructura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="2142">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/nuestro_director.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="476">
+          <caret line="28" column="18" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/index.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/cabecera.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="8" lean-forward="true" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        <state relative-caret-position="680">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/css/estilos.css">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/estructura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="2142">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido1.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
+        <state relative-caret-position="476">
+          <caret line="28" column="18" selection-start-line="13" selection-start-column="8" selection-end-line="28" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido2.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/nuestro_director.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        <state relative-caret-position="680">
+          <caret line="40" column="25" selection-start-line="40" selection-start-column="25" selection-end-line="40" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/index.html">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/estructura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="31" lean-forward="true" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
+        <state relative-caret-position="2142">
+          <caret line="126" selection-start-line="126" selection-end-line="126" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/cabecera.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="7" lean-forward="true" selection-start-line="8" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido1.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/contenido2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Tarea_clase2/nuestro_director.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Clase Practica 2/frame-framset.html" />
-    <entry file="file://$PROJECT_DIR$/Clase Practica 2/modelos.html" />
-    <entry file="file://$PROJECT_DIR$/Clase Practica 2/contenido.html" />
-    <entry file="file://$PROJECT_DIR$/Clase Practica 2/css/estilos.css" />
-    <entry file="file://$PROJECT_DIR$/Clase Practica 2/titulo.html" />
     <entry file="file://$PROJECT_DIR$/CLASE PRACTICA 1/horario.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -500,20 +806,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_variables-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -521,24 +813,70 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/arequipa-2308382_1280-1-1024x576.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/arequipa.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/candles-2565411_960_720.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/Colorantes-para-velas-1-e1491234365965.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/MG_4248-AREQUIPA-GRANDE.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/js/js-principal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="1" lean-forward="true" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/img/next.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/estructura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="952">
-          <caret line="84" column="1" selection-start-line="84" selection-start-column="1" selection-end-line="84" selection-end-column="1" />
+        <state relative-caret-position="1241">
+          <caret line="220" column="9" lean-forward="true" selection-start-line="220" selection-start-column="9" selection-end-line="220" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/productos-sass.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="1" lean-forward="true" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-323">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="36" lean-forward="true" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="36" />
+        <state relative-caret-position="262">
+          <caret line="41" column="48" selection-start-line="41" selection-start-column="48" selection-end-line="41" selection-end-column="48" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-578">
-          <caret line="14" column="13" lean-forward="true" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="-353">
+          <caret line="203" column="26" selection-start-line="203" selection-start-column="26" selection-end-line="203" selection-end-column="26" />
         </state>
       </provider>
     </entry>

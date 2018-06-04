@@ -10,3 +10,10 @@
   -khtml-user-select: none;
   -ms-user-select:none;
 }
+@mixin ajustarimg($resolucion){
+  @if($resolucion == 320px){
+    @media screen and (max-width: 330px){
+      @content;
+    }
+  }
+}

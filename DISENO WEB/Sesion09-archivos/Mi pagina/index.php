@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mi pagina web</title>
     <link rel="stylesheet" href="css/estructura.css">
+    <script src="js/script-estructura.js"></script>
 </head>
 <body>
 <div class="contenedor">
@@ -15,7 +16,7 @@
     </header>
     <nav>
 
-        <div class="menu-cel">
+        <div class="menu-cel" id="menu-cel">
             <div class="menu1"></div>
             <div class="menu1"></div>
             <div class="menu1"></div>

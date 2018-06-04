@@ -1,118 +1,228 @@
+@font-face {
+  font-family: OpenSans-Bold;
+  src: url("../fonts/open-sans/OpenSans-Bold.ttf"); }
 * {
   margin: 0px;
   padding: 0px; }
 
-header {
-  width: auto;
-  height: 500px;
+#contenedor header {
+  width: 100%;
+  height: 647px;
+  box-sizing: border-box;
   background-image: url("../img/arequipa.jpg");
   background-repeat: no-repeat;
-  background-size: cover;
-  z-index: 1;
+  background-size: contain;
+  background-position: center;
   -webkit-user-select: none;
   -moz-user-select: none;
   -khtml-user-select: none;
   -ms-user-select: none; }
-
-footer {
-  width: auto;
-  height: 100px;
-  height: 100px;
+  @media screen and (max-width: 330px) {
+    #contenedor header {
+      background-size: 320px 250px;
+      height: 250px;
+      width: 100%; } }
+  #contenedor header #titulo {
+    font-family: "Book Antiqua";
+    height: 90px;
+    color: #ed1d01;
+    background: rgba(18, 27, 54, 0.7);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none; }
+    #contenedor header #titulo #ntitulo {
+      padding: 20px;
+      font-size: 30px;
+      display: inline-block;
+      font-weight: bold;
+      position: absolute;
+      left: 100px;
+      top: 20px;
+      -webkit-text-stroke: 1px #fff;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -ms-user-select: none; }
+  #contenedor header #logo {
+    padding: 20px;
+    position: absolute;
+    left: 40px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none; }
+  #contenedor header #menu-principal {
+    position: absolute;
+    right: 0px;
+    padding: 30px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none; }
+    #contenedor header #menu-principal li {
+      display: inline-block;
+      list-style: none;
+      width: 100px;
+      height: 40px; }
+      #contenedor header #menu-principal li h3 {
+        font-size: 14px;
+        text-align: center;
+        padding: 10px;
+        font-weight: bold; }
+        #contenedor header #menu-principal li h3:hover {
+          font-size: 17px; }
+        #contenedor header #menu-principal li h3 a {
+          text-decoration: none;
+          color: aliceblue; }
+      #contenedor header #menu-principal li:hover {
+        background: #6b000b;
+        opacity: 0.8;
+        border-radius: 10px; }
+#contenedor #header {
+  width: 100%;
+  height: 647px;
+  box-sizing: border-box;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none; }
+  #contenedor #header #titulo {
+    font-family: "Book Antiqua";
+    height: 90px;
+    color: #ed1d01;
+    background: rgba(18, 27, 54, 0.7);
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -khtml-user-select: none;
+    -ms-user-select: none;
+    position: relative;
+    top: 0px;
+    z-index: 2; }
+    #contenedor #header #titulo #ntitulo {
+      padding: 20px;
+      font-size: 30px;
+      display: inline-block;
+      font-weight: bold;
+      position: absolute;
+      left: 100px;
+      top: 20px;
+      -webkit-text-stroke: 1px #fff;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -ms-user-select: none;
+      z-index: 2; }
+    #contenedor #header #titulo #logo {
+      padding: 20px;
+      position: absolute;
+      left: 40px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -ms-user-select: none;
+      z-index: 2; }
+    #contenedor #header #titulo #menu-principal {
+      position: absolute;
+      right: 0px;
+      padding: 30px;
+      z-index: 2;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -ms-user-select: none; }
+      #contenedor #header #titulo #menu-principal li {
+        display: inline-block;
+        list-style: none;
+        width: 100px;
+        height: 40px; }
+        #contenedor #header #titulo #menu-principal li h3 {
+          font-size: 14px;
+          text-align: center;
+          padding: 10px;
+          font-weight: bold; }
+          #contenedor #header #titulo #menu-principal li h3:hover {
+            font-size: 17px; }
+          #contenedor #header #titulo #menu-principal li h3 a {
+            text-decoration: none;
+            color: aliceblue; }
+        #contenedor #header #titulo #menu-principal li:hover {
+          background: #6b000b;
+          opacity: 0.8;
+          border-radius: 10px; }
+  #contenedor #header #img-banner {
+    width: 100%;
+    height: 647px;
+    box-sizing: border-box; }
+    #contenedor #header #img-banner #btn-siguiente {
+      width: 64px;
+      height: 64px;
+      background: url("../img/next.png");
+      position: absolute;
+      top: 330px;
+      right: 40px;
+      z-index: 1;
+      opacity: 0.7; }
+      #contenedor #header #img-banner #btn-siguiente:hover {
+        opacity: 1.1; }
+    #contenedor #header #img-banner img {
+      width: 100%;
+      height: 647px;
+      position: absolute;
+      top: 0px;
+      z-index: 0; }
+#contenedor section {
+  background: #fff;
+  box-sizing: border-box;
+  width: 100%; }
+  #contenedor section .presentacion {
+    width: 80%;
+    height: 200px;
+    padding: 0px;
+    margin: 50px auto;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; }
+    #contenedor section .presentacion .texto {
+      text-align: center;
+      font-size: 50px;
+      padding: 20px;
+      color: #6a79b0;
+      font-family: "OpenSans-Bold"; }
+    #contenedor section .presentacion .texto2 {
+      text-align: center;
+      font-size: 20px;
+      padding: 20px;
+      color: #0f0f0f;
+      font-family: "OpenSans-Bold"; }
+    #contenedor section .presentacion .vela-img img {
+      width: 120px;
+      height: 100px; }
+  #contenedor section #galeria-imgs {
+    margin: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; }
+    #contenedor section #galeria-imgs img {
+      margin-right: 20px;
+      margin-bottom: 20px; }
+#contenedor footer {
+  width: 100%;
+  height: 10%;
+  box-sizing: border-box;
   background: black;
   color: aliceblue;
   -webkit-user-select: none;
   -moz-user-select: none;
   -khtml-user-select: none;
   -ms-user-select: none; }
-
-#copyright {
+#contenedor #copyright {
   padding: 20px;
   -webkit-user-select: none;
   -moz-user-select: none;
   -khtml-user-select: none;
   -ms-user-select: none; }
-
-#titulo {
-  font-family: "Book Antiqua";
-  height: 80px;
-  color: #ed1d01;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -khtml-user-select: none;
-  -ms-user-select: none; }
-  #titulo #ntitulo {
-    padding: 20px;
-    font-size: 30px;
-    display: inline-block;
-    font-weight: bold;
-    position: absolute;
-    left: 100px;
-    top: 20px;
-    -webkit-text-stroke: 1px #fff;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -ms-user-select: none; }
-
-#logo {
-  padding: 20px;
-  position: absolute;
-  left: 40px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -khtml-user-select: none;
-  -ms-user-select: none; }
-
-#menu-principal {
-  position: absolute;
-  right: 0px;
-  padding: 30px;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -khtml-user-select: none;
-  -ms-user-select: none; }
-
-li {
-  display: inline-block;
-  list-style: none;
-  width: 100px;
-  height: 40px; }
-  li h3 {
-    font-size: 14px;
-    text-align: center;
-    padding: 10px;
-    font-weight: bold; }
-    li h3:hover {
-      font-size: 17px; }
-    li h3 a {
-      text-decoration: none;
-      color: aliceblue; }
-  li:hover {
-    background: #6b000b;
-    opacity: 0.8;
-    border-radius: 10px; }
-
-section #noticias {
-  background-color: cornsilk; }
-  section #noticias #not1 {
-    width: 50%;
-    background-color: #62b7aa;
-    display: inline-block; }
-  section #noticias #not2 {
-    width: 50%;
-    background-color: #62b7aa;
-    display: inline-block;
-    position: absolute;
-    right: 0px; }
-  section #noticias #not3 {
-    width: 50%;
-    background-color: #62b7aa;
-    display: inline-block; }
-  section #noticias #not4 {
-    width: 50%;
-    background-color: #62b7aa;
-    display: inline-block;
-    position: absolute;
-    right: 0px; }
 
 /*# sourceMappingURL=estructura.css.map */
