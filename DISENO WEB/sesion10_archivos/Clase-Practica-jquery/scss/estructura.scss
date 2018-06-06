@@ -1,0 +1,141 @@
+@import "mixin-medias";
+@import "variables-estructura";
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  background: #ffd800;
+}
+.contenedor{
+  background: #a4d9ff;
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  header{
+    background: #84bfff;
+    padding: $relleno;
+    h1{
+      background: #709eff;
+      color: #040508;
+      padding: $relleno;
+      text-align: center;
+      border:2px #ff6167;
+    }
+  }
+  nav{
+    background: #ffc2b6;
+    padding: $relleno;
+    box-sizing: border-box;
+    width: 100%;
+    .menu-desplegable{
+      ul{
+        display: flex;
+
+        li{
+          background: #040508;
+          list-style: none;
+          text-align: center;
+          a{
+            text-decoration: none;
+            color: white;
+            display: block;
+            font-size: 30px;
+            padding: 5px;
+          }
+          &:hover{
+            background: #0d2cff;
+          }
+        }
+      }
+      @include medias(600px){
+        &{
+          display: none;
+        }
+      }
+    }
+    .menu-cel{
+      background: #ffa06c;
+      width: 35px;
+      height: 35px;
+      border-radius: 10px;
+      display: none;
+      .menu1{
+        background: #d9ff8b;
+        display: block;
+        margin: 3px auto;
+        width: 25px;
+        height: 8px;
+        border-radius: 10px ;
+      }
+      @include medias(600px){
+        &{
+          display: inline-block;
+          float: right;
+          box-sizing: border-box;
+        }
+      }
+
+      //&:hover+ .menu-desplegable{
+      //  display: block;
+      //}
+    }
+    .show{
+      background: white;
+      + .menu-desplegable{
+        display: flex;
+        flex-direction: column;
+        position: absolute;
+        right: 80px;
+        top: 200px;
+      }
+    }
+
+
+    @include medias(320px){
+      &{
+        height: 70px;
+        h3{
+          display: none;
+        }
+      }
+    }
+  }
+  #main{
+    background: #ffdb89;
+    width: 70%;
+    float: left;
+    padding: $relleno;
+    box-sizing: border-box;
+    img{
+      width: 100%;
+      height: auto;
+    }
+    @include medias(1024px){
+      &{
+        width: 100%;
+      }
+    }
+  }
+  aside{
+    background: #c4ffaa;
+    width: 30%;
+    padding: $relleno;
+    float: right;
+    box-sizing: border-box;
+    @include medias(1024px){
+      &{
+        width: 100%;
+      }
+    }
+  }
+  footer{
+    width: 100%;
+    height: auto;
+    background: #000000;
+    color: #ffffff;
+    padding: $relleno;
+    float: left;
+    box-sizing: border-box;
+  }
+}
