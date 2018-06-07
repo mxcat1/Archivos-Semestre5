@@ -40,7 +40,9 @@ body {
           background: #0d2cff; }
     @media screen and (max-width: 600px) {
       .contenedor nav .menu-desplegable {
-        display: none; } }
+        display: none; }
+        .contenedor nav .menu-desplegable ul {
+          display: none; } }
     .contenedor nav .menu-cel {
       background: #ffa06c;
       width: 35px;
@@ -57,16 +59,18 @@ body {
       @media screen and (max-width: 600px) {
         .contenedor nav .menu-cel {
           display: inline-block;
-          float: right;
+          position: relative;
+          right: 0px;
           box-sizing: border-box; } }
     .contenedor nav .show {
       background: white; }
       .contenedor nav .show + .menu-desplegable {
-        display: flex;
-        flex-direction: column;
+        display: block;
         position: absolute;
         right: 80px;
         top: 200px; }
+        .contenedor nav .show + .menu-desplegable ul {
+          display: flex; }
     @media screen and (max-width: 320px) {
       .contenedor nav {
         height: 70px; }

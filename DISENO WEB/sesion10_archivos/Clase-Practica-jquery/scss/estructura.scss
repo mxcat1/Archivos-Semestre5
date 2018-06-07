@@ -31,7 +31,6 @@ body{
     .menu-desplegable{
       ul{
         display: flex;
-
         li{
           background: #040508;
           list-style: none;
@@ -51,6 +50,9 @@ body{
       @include medias(600px){
         &{
           display: none;
+          ul{
+            display: none;
+          }
         }
       }
     }
@@ -71,7 +73,8 @@ body{
       @include medias(600px){
         &{
           display: inline-block;
-          float: right;
+          position: relative;
+          right: 0px;
           box-sizing: border-box;
         }
       }
@@ -83,11 +86,13 @@ body{
     .show{
       background: white;
       + .menu-desplegable{
-        display: flex;
-        flex-direction: column;
+        display: block;
         position: absolute;
         right: 80px;
         top: 200px;
+        ul{
+          display: flex;
+        }
       }
     }
 

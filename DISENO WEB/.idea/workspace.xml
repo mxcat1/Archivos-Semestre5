@@ -10,14 +10,57 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="horizontal" split-proportion="0.5813953">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/index.php">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="425">
+                  <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estructura.scss" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/scss/estructura.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="578">
+                  <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="estructura.css" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/css/estructura.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="446">
+                  <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf>
+          <file leaf-file-name="estructura.css" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/css/estructura.css">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="-102" />
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
-        <option value="JavaScript File" />
         <option value="SCSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,8 +97,12 @@
         <option value="$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo1.php" />
         <option value="$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo2.php" />
         <option value="$PROJECT_DIR$/Sesion09-archivos/Mi pagina/scss/_mixin-medias.scss" />
-        <option value="$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/scss/estructura.scss" />
         <option value="$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/index.php" />
+        <option value="$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/scss/estructura.scss" />
+        <option value="$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/estructura.scss" />
+        <option value="$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/js/script-estructura.js" />
+        <option value="$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/index.php" />
+        <option value="$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/scss/estructura.scss" />
       </list>
     </option>
   </component>
@@ -68,7 +115,7 @@
   <component name="PhpServers">
     <servers />
   </component>
-  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP7.1" />
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP(XAMP)" />
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -80,6 +127,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,65 +138,54 @@
             <path>
               <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mi pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mi pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="img" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Sesion09-archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Mi pagina" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
-            </path>
-            <path>
-              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Clase-Practica-jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Clase-Practica-jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="css" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Clase-Practica-jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="jquery-3.3.1.js" type="620a8d5e:NestingTreeNode" />
+            </path>
+            <path>
+              <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
+              <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="js" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
             <path>
               <item name="DISENO WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="DISENO WEB" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="sesion10_archivos" type="2a2b976b:PhpTreeStructureProvider$1" />
-              <item name="Clase-Practica-jquery" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Mi Pagina Casa" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="scss" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -158,19 +195,19 @@
     <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Mi pagina\js" />
-      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion09_archivos\Archivos" />
-      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\css" />
-      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\js" />
-      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Session04-examen\Pregunta1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Honorio Semestre V\DISENO WEB\sesion10_archivos\Mi Pagina Casa\jquery" />
       <recent name="E:\Honorio Semestre V\DISENO WEB\sesion10_archivos\jQuery_ejemplos" />
       <recent name="E:\Honorio Semestre V\DISENO WEB\sesion10_archivos" />
       <recent name="D:\Honorio Semestre V\DISENO WEB\Archivos\jquery" />
       <recent name="D:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Mi pagina" />
-      <recent name="E:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Pagina\otros" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Honorio Semestre V\DISENO WEB\sesion10_archivos\Mi Pagina Casa\scss" />
+      <recent name="D:\Honorio Semestre V\DISENO WEB\Sesion09-archivos\Mi pagina\js" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion09_archivos\Archivos" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\css" />
+      <recent name="E:\Honorio Semestre V\DISEÑO WEB\Sesion08_archivos\Repaso validacion\js" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -231,32 +268,34 @@
       <workItem from="1528241404790" duration="1131000" />
       <workItem from="1528287325541" duration="10000000" />
       <workItem from="1528305536193" duration="209000" />
+      <workItem from="1528317521785" duration="3520000" />
+      <workItem from="1528328801382" duration="5001000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82947000" />
+    <option name="totallyTimeSpent" value="91468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21303074" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32874617" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21303074" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="PHP-CGI Server" order="12" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
@@ -269,6 +308,20 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="16" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/scss/estructura.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Session03/index.php" />
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta1/index.php" />
     <entry file="file://$PROJECT_DIR$/Session04-examen/Pregunta2/index.php" />
@@ -335,35 +388,11 @@
         <state relative-caret-position="-51" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo2.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="11" lean-forward="true" selection-start-line="19" selection-start-column="11" selection-end-line="19" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo1.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo3.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="11" lean-forward="true" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo2.php" />
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo1.php" />
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo3.php" />
     <entry file="file://$PROJECT_DIR$/sesion10_archivos/menu1(apycom.com-9-deep-sky-blue)/menu.js" />
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo4.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/jQuery_ejemplos/Ejemplo4.php" />
     <entry file="file://$PROJECT_DIR$/Sesion08-archivos/Repaso validacion/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-370" />
@@ -382,35 +411,13 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi pagina/menu/menu1(apycom.com-9-deep-sky-blue)/index.html" />
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/menu/menu1(3_level_responsive_drop_down_navigation_menu)/3_level_responsive_drop_down_navigation_menu/index.htm">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-204" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/menu/menu2(apycom.com-9-deep-sky-blue)/menu.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2356" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/menu/menu2(apycom.com-9-deep-sky-blue)/jquery.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/galeria/galeria4(FeaturedContentSlider)/FeaturedContentSlider/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-102" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/menu/menu1(3_level_responsive_drop_down_navigation_menu)/3_level_responsive_drop_down_navigation_menu/index.htm" />
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/menu/menu2(apycom.com-9-deep-sky-blue)/menu.css" />
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/galeria/galeria4(FeaturedContentSlider)/FeaturedContentSlider/index.html" />
     <entry file="file://$PROJECT_DIR$/Sesion09-archivos/Mi pagina/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="429">
           <caret line="135" column="1" lean-forward="true" selection-end-line="135" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/scss/estructura.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="86" column="31" selection-start-line="86" selection-start-column="31" selection-end-line="86" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -421,24 +428,46 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/js/script-estructura.js">
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/js/script-estructura.js" />
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="56" lean-forward="true" selection-start-line="1" selection-start-column="50" selection-end-line="1" selection-end-column="56" />
+        <state relative-caret-position="357">
+          <caret line="93" column="24" selection-start-line="93" selection-start-column="24" selection-end-line="93" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="25" lean-forward="true" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+        <state relative-caret-position="194">
+          <caret line="21" column="37" selection-start-line="21" selection-start-column="37" selection-end-line="21" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sesion10_archivos/Clase-Practica-jquery/css/estructura.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="43" column="31" lean-forward="true" selection-start-line="43" selection-start-column="31" selection-end-line="43" selection-end-column="31" />
+        <state relative-caret-position="391">
+          <caret line="71" column="21" lean-forward="true" selection-start-line="71" selection-end-line="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/css/estructura.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="446">
+          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="39" selection-start-line="25" selection-start-column="39" selection-end-line="25" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sesion10_archivos/Mi Pagina Casa/scss/estructura.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="31" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
         </state>
       </provider>
     </entry>

@@ -1,0 +1,48 @@
+* {
+  margin: 0px;
+  padding: 0px; }
+
+#contenedor header {
+  background: rgba(0, 0, 0, 0.8); }
+  #contenedor header #cabecera {
+    display: flex;
+    color: #cccccc; }
+    #contenedor header #cabecera #titulo {
+      line-height: 80px;
+      text-align: center;
+      padding: 15px 25px; }
+    #contenedor header #cabecera #logo {
+      width: 250px;
+      line-height: 70px;
+      padding: 15px 20px;
+      background: #0d2cff; }
+    #contenedor header #cabecera #menu {
+      position: absolute;
+      right: 0px;
+      padding: 10px 10px; }
+      #contenedor header #cabecera #menu ul {
+        display: flex; }
+        #contenedor header #cabecera #menu ul a {
+          padding: 14px 20px;
+          line-height: 60px;
+          text-decoration: none;
+          color: #cccccc;
+          font-size: 22px;
+          text-align: center; }
+        @media screen and (max-width: 600px) {
+          #contenedor header #cabecera #menu ul {
+            flex-direction: column; } }
+    @media screen and (max-width: 600px) {
+      #contenedor header #cabecera {
+        flex-direction: column; } }
+#contenedor #sec-banner {
+  width: 100%;
+  height: 600px; }
+#contenedor #datos {
+  width: 100%;
+  height: 400px; }
+#contenedor footer {
+  width: 100%;
+  height: 150px; }
+
+/*# sourceMappingURL=estructura.css.map */
