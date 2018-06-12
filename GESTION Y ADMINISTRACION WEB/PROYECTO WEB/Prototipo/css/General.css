@@ -2,83 +2,9 @@
   font-family: OpenSans-Bold;
   src: url("../fonts/open-sans/OpenSans-Bold.ttf"); }
 * {
-  margin: 0px;
-  padding: 0px; }
+  margin: 0;
+  padding: 0; }
 
-#contenedor header {
-  width: 100%;
-  height: 647px;
-  box-sizing: border-box;
-  background-image: url("../img/arequipa.jpg");
-  background-repeat: no-repeat;
-  background-size: contain;
-  background-position: center;
-  -webkit-user-select: none;
-  -moz-user-select: none;
-  -khtml-user-select: none;
-  -ms-user-select: none; }
-  @media screen and (max-width: 330px) {
-    #contenedor header {
-      background-size: 320px 250px;
-      height: 250px;
-      width: 100%; } }
-  #contenedor header #titulo {
-    font-family: "Book Antiqua";
-    height: 90px;
-    color: #ed1d01;
-    background: rgba(18, 27, 54, 0.7);
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -ms-user-select: none; }
-    #contenedor header #titulo #ntitulo {
-      padding: 20px;
-      font-size: 30px;
-      display: inline-block;
-      font-weight: bold;
-      position: absolute;
-      left: 100px;
-      top: 20px;
-      -webkit-text-stroke: 1px #fff;
-      -webkit-user-select: none;
-      -moz-user-select: none;
-      -khtml-user-select: none;
-      -ms-user-select: none; }
-  #contenedor header #logo {
-    padding: 20px;
-    position: absolute;
-    left: 40px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -ms-user-select: none; }
-  #contenedor header #menu-principal {
-    position: absolute;
-    right: 0px;
-    padding: 30px;
-    -webkit-user-select: none;
-    -moz-user-select: none;
-    -khtml-user-select: none;
-    -ms-user-select: none; }
-    #contenedor header #menu-principal li {
-      display: inline-block;
-      list-style: none;
-      width: 100px;
-      height: 40px; }
-      #contenedor header #menu-principal li h3 {
-        font-size: 14px;
-        text-align: center;
-        padding: 10px;
-        font-weight: bold; }
-        #contenedor header #menu-principal li h3:hover {
-          font-size: 17px; }
-        #contenedor header #menu-principal li h3 a {
-          text-decoration: none;
-          color: aliceblue; }
-      #contenedor header #menu-principal li:hover {
-        background: #6b000b;
-        opacity: 0.8;
-        border-radius: 10px; }
 #contenedor #header {
   width: 100%;
   height: 647px;
@@ -97,7 +23,7 @@
     -khtml-user-select: none;
     -ms-user-select: none;
     position: relative;
-    top: 0px;
+    top: 0;
     z-index: 2; }
     #contenedor #header #titulo #ntitulo {
       padding: 20px;
@@ -124,7 +50,7 @@
       z-index: 2; }
     #contenedor #header #titulo #menu-principal {
       position: absolute;
-      right: 0px;
+      right: 0;
       padding: 30px;
       z-index: 2;
       -webkit-user-select: none;
@@ -169,7 +95,7 @@
       width: 100%;
       height: 647px;
       position: absolute;
-      top: 0px;
+      top: 0;
       z-index: 0; }
 @keyframes trancicion {
   from {
@@ -183,7 +109,7 @@
   #contenedor section .presentacion {
     width: 80%;
     height: 200px;
-    padding: 0px;
+    padding: 0;
     margin: 50px auto;
     background: #ffffff;
     display: flex;
@@ -205,23 +131,6 @@
     #contenedor section .presentacion .vela-img img {
       width: 120px;
       height: 100px; }
-  #contenedor section #subtitulo-galeria {
-    margin-top: 30px;
-    text-align: center;
-    color: #6a79b0;
-    font-family: "OpenSans-Bold"; }
-  #contenedor section #galeria-imgs {
-    margin: 50px;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center; }
-    #contenedor section #galeria-imgs img {
-      margin-right: 20px;
-      margin-bottom: 20px;
-      -webkit-transition: transform 2s;
-      transition: transform 2s; }
-    #contenedor section #galeria-imgs img:hover {
-      transform: scale(1.2); }
 #contenedor footer {
   width: 100%;
   height: 10%;
@@ -239,4 +148,65 @@
   -khtml-user-select: none;
   -ms-user-select: none; }
 
-/*# sourceMappingURL=estructura.css.map */
+#contenedor section #subtitulo-galeria {
+  margin-top: 30px;
+  text-align: center;
+  color: #6a79b0;
+  font-family: "OpenSans-Bold";
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none; }
+#contenedor section #galeria-imgs {
+  margin: 50px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -khtml-user-select: none;
+  -ms-user-select: none; }
+  #contenedor section #galeria-imgs .img {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    overflow: hidden;
+    position: relative;
+    z-index: 1; }
+    #contenedor section #galeria-imgs .img .descripcion {
+      width: 300px;
+      height: 300px;
+      margin-right: 20px;
+      margin-bottom: 20px;
+      position: absolute;
+      z-index: 2;
+      background: rgba(0, 0, 0, 0.4);
+      color: white;
+      animation-name: opacidad;
+      animation-duration: 3s;
+      display: none;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -khtml-user-select: none;
+      -ms-user-select: none; }
+      #contenedor section #galeria-imgs .img .descripcion h2 {
+        text-align: center;
+        margin-top: 40px;
+        opacity: 0.8; }
+      #contenedor section #galeria-imgs .img .descripcion p {
+        text-align: justify;
+        margin: 10px;
+        opacity: 0.8; }
+    #contenedor section #galeria-imgs .img img {
+      -webkit-transition: transform 3s;
+      transition: transform 3s; }
+    #contenedor section #galeria-imgs .img:hover img {
+      transform: scale(1.3); }
+    #contenedor section #galeria-imgs .img:hover > .descripcion {
+      display: block; }
+@keyframes opacidad {
+  from {
+    opacity: 0.0; }
+  to {
+    opacity: 1.1; } }
+
+/*# sourceMappingURL=General.css.map */

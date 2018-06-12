@@ -7,84 +7,11 @@
 }
 //END
 *{
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
 }
 #contenedor{
   //Header principal index
-  header{
-    width: 100%;
-    height: 647px;
-    box-sizing: border-box;
-    background-image: url("../img/arequipa.jpg");
-    background-repeat: no-repeat;
-    background-size: contain;
-    background-position: center;
-    @include noseleccion;
-    @include ajustarimg(320px){
-      &{
-        background-size: 320px 250px;
-        height: 250px;
-        width: 100%;
-      }
-    }
-    #titulo{
-      font-family: "Book Antiqua";
-      height: 90px;
-      color: $colortituloletra;
-      background: rgba(18,27,54,0.7);
-      @include noseleccion;
-      #ntitulo{
-        padding: $pading;
-        font-size: 30px;
-        display: inline-block;
-        font-weight: bold;
-        position: absolute;
-        left: 100px;
-        top: 20px;
-        -webkit-text-stroke: 1px #fff;
-        @include noseleccion;
-      }
-    }
-    #logo{
-      padding: $pading;
-      position: absolute;
-      left: 40px;
-      @include noseleccion;
-
-    }
-    #menu-principal{
-      position: absolute;
-      right: 0px;
-      padding: 30px;
-      @include noseleccion;
-      li{
-        display: inline-block;
-        list-style: none;
-        width: 100px;
-        height: 40px;
-        h3{
-          font-size: 14px;
-          text-align: center;
-          padding: 10px;
-          font-weight: bold;
-          &:hover{
-            font-size: 17px;
-          }
-          a{
-            text-decoration: none;
-            color: aliceblue;
-          }
-        }
-        &:hover{
-          background: #6b000b;
-          opacity: 0.8;
-          border-radius: 10px;
-        }
-      }
-    }
-  }
-  // header secundario para las demas paginas
   #header{
     width: 100%;
     height: 647px;
@@ -98,7 +25,7 @@
       background: rgba(18,27,54,0.7);
       @include noseleccion;
       position: relative;
-      top: 0px;
+      top: 0;
       z-index: 2;
       #ntitulo{
         padding: $pading;
@@ -121,7 +48,7 @@
       }
       #menu-principal{
         position: absolute;
-        right: 0px;
+        right: 0;
         padding: 30px;
         z-index: 2;
         @include noseleccion;
@@ -182,7 +109,7 @@
         width: 100%;
         height: 647px;
         position: absolute;
-        top: 0px;
+        top: 0;
         z-index: 0;
       }
       @keyframes trancicion {
@@ -199,13 +126,14 @@
     .presentacion{
       width: 80%;
       height: 200px;
-      padding: 0px ;
+      padding: 0;
       margin: 50px auto;
       background: #ffffff;
       display: flex;
       flex-direction: column;
       justify-content: center;
       align-items: center;
+      //noinspection ALL
       .texto{
         text-align: center;
         font-size: 50px;
@@ -227,29 +155,6 @@
         }
       }
     }
-    #subtitulo-galeria{
-      margin-top: 30px;
-      text-align: center;
-      color: #6a79b0;
-      font-family: "OpenSans-Bold";
-    }
-    #galeria-imgs{
-      margin: 50px;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      img{
-        margin-right: 20px;
-        margin-bottom: 20px;
-        -webkit-transition: transform 2s;
-        transition: transform 2s;
-      }
-      img:hover{
-        transform: scale(1.20);
-
-      }
-    }
-
   }
   footer{
     width: 100%;
