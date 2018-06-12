@@ -1,0 +1,101 @@
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background:#56cfd6;
+	font-family:Verdana;	
+}
+
+header{
+	border:1px solid blue;
+	margin:20px;		
+}
+
+header h1{
+	color:black;
+	padding:20px 0;
+	text-align:center;	
+}
+/*ETIQUETAS HTML*/
+header{
+	border:1px solid #33ff00;
+}
+/*CLASES*/
+.Contenedor{
+	width:80%;
+	margin:0 auto;
+	border:1px dashed #040508;
+	background:yellow;
+	overflow:hidden;
+	
+}
+/*USAR id*/
+#main{
+	width:80%;
+	background:#124456;
+
+}
+
+#informacion1{
+	width:40%;
+	background:#F00000;
+	float:left;
+
+}
+#informacion2{
+	width:40%;
+	background:#ffd800;
+	float:left;
+
+}
+footer{
+	width:95%;
+	padding:20px;
+	background:black;
+	color:white;
+	float:left;
+}
+nav{
+	background:#9F3;
+	padding-top:20px;
+}
+
+@media screen and (max-width:768px){
+	
+	#main{
+	width:100%;
+	background:#0F6;
+	}
+	
+	#informacion1{
+	width:70%;
+	background:#CF0;
+	float:left;
+	}
+
+	#informacion2{
+	width:30%;
+	background:#06F;
+	float:left;
+	}
+}
+@media screen and (max-width:350px){
+
+	#main{
+	display:none;
+	}
+	
+	#informacion1{
+	width:100%;
+	background:#CF0;
+	float:left;
+	}
+
+	#informacion2{
+	width:100%;
+	background:#06F;
+	float:left;
+	}
+}
