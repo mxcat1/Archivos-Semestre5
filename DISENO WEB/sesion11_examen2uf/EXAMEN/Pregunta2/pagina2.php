@@ -5,4 +5,4 @@
  * Date: 12/06/2018
  * Time: 11:12
  */
-var_dump($_POST);
+var_dump($_POST["chkpreferencias"],$_POST['chkcuentas'],$_POST['flfoto']);

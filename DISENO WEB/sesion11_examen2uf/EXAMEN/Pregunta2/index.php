@@ -12,27 +12,27 @@
 <form action="pagina2.php" method="post" id="formulario" onsubmit="return verificar()">
     <label for="">Preferencias</label>
     <br>
-    <input type="checkbox" name="chkpreferencias" id="chkpreferencias1" value="Musica">
+    <input type="checkbox" name="chkpreferencias[]" id="chkpreferencias1" value="Musica">
     <label for="">Musica</label>
     <br>
-    <input type="checkbox" name="chkpreferencias" id="chkpreferencias2" value="Cine">
+    <input type="checkbox" name="chkpreferencias[]" id="chkpreferencias2" value="Cine">
     <label for="">Cine</label>
     <br>
-    <input type="checkbox" name="chkpreferencias" id="chkpreferencias3" value="Television">
+    <input type="checkbox" name="chkpreferencias[]" id="chkpreferencias3" value="Television">
     <label for="">Television</label>
     <br>
-    <input type="checkbox" name="chkpreferencias" id="chkpreferencias4" value="Deporte">
+    <input type="checkbox" name="chkpreferencias[]" id="chkpreferencias4" value="Deporte">
     <label for="">Deporte</label>
     <br><br>
     <label for="">Cuentas</label>
     <br>
-    <input type="checkbox" name="chkcuentas" id="chkcuentas1" value="Hotmail">
+    <input type="checkbox" name="chkcuentas[]" id="chkcuentas1" value="Hotmail">
     <label for="">Hotmail</label>
     <br>
-    <input type="checkbox" name="chkcuentas" id="chkcuentas2" value="Facebook">
+    <input type="checkbox" name="chkcuentas[]" id="chkcuentas2" value="Facebook">
     <label for="">Facebook</label>
     <br>
-    <input type="checkbox" name="chkcuentas" id="chkcuentas3" value="Twitter">
+    <input type="checkbox" name="chkcuentas[]" id="chkcuentas3" value="Twitter">
     <label for="">Twitter</label>
     <br>
     <br><br>
