@@ -1,0 +1,94 @@
+#galeria-articulos{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  .articulo-1{
+    width: 70%;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    .parrafo-articulo{
+      padding: 25px;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+      h2{
+        text-align: center;
+        font-size: 35px;
+      }
+      .linea-separacion{
+        width: 20%;
+        background: #0f0f0f;
+        height: 5px;
+        border-radius: 20px;
+        align-self: center;
+      }
+      p{
+        text-align: left;
+        font-size: 20px;
+      }
+    }
+    .img-foto{
+      box-sizing: border-box;
+      width: 100%;
+      //background: gray;
+      padding: 20px;
+      align-self: center;
+      img{
+        width: 85%;
+        animation-name: aparecer-img;
+        animation-duration: 3s;
+      }
+      @keyframes aparecer-img {
+        from{opacity: 0;}
+        to{opacity: 1.1;}
+      }
+    }
+  }
+  .articulo-2{
+    width: 100%;
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    background: #cacfca;
+    .parrafo-articulo {
+      padding: 25px;
+      align-self: center;
+      display: flex;
+      flex-direction: column;
+      h2{
+        text-align: center;
+        font-size: 35px;
+      }
+      .linea-separacion{
+        width: 20%;
+        background: #0f0f0f;
+        height: 5px;
+        border-radius: 20px;
+        align-self: center;
+      }
+      #mini-galeria{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        .img-foto{
+          box-sizing: border-box;
+          //background: gray;
+          padding: 20px;
+          align-self: center;
+          animation-name: aparecer-img;
+          animation-duration: 5s;
+        }
+        @keyframes aparecer-img {
+          from{opacity: 0;}
+          to{opacity: 1.1;}
+        }
+      }
+    }
+  }
+  .articulo-3{
+    @extend .articulo-1;
+  }
+}
