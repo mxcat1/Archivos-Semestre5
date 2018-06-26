@@ -1,1 +1,74 @@
-//Hola mundo
+#nosotros-contenedor{
+  display: flex;
+  #sub-menu{
+    background: rgba(92,131,210,0.6);
+    display: flex;
+    flex-direction: column;
+    width: 25%;
+    h2{
+      padding: 10px;
+      text-align: center;
+      color: #1e272e;
+      font-family: sans-serif;
+      font-weight: bold;
+    }
+    ul{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      a{
+        font-size: 20px;
+        text-decoration: none;
+        color: #3c3c3c;
+        width: 100%;
+        line-height: 50px;
+        text-align: center;
+        font-family: sans-serif;
+        &:hover{
+          background: #354ece;
+          color: white;
+        }
+      }
+    }
+  }
+  #datos-empresa{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background: #e6e6eb;
+    #resena-emp{
+      display: flex;
+      width: 95%;
+      padding: 10px;
+      #texto-resena{
+        width: 100%;
+        padding: 30px;
+        border: #5081ff;
+        border-style: double hidden hidden double;
+        h2{
+          text-align: center;
+          font-family: sans-serif;
+        }
+        p{
+          text-align: justify;
+          font-family: sans-serif;
+        }
+      }
+      #img-resena{
+        padding: 20px;
+        box-sizing: border-box;
+        align-self: center;
+        img{
+          width: 100%;
+          border: #0b3372 5px;
+          border-style: outset;
+          border-radius: 40%;
+        }
+      }
+    }
+    #identidad-emp{
+      display: flex;
+    }
+  }
+}
