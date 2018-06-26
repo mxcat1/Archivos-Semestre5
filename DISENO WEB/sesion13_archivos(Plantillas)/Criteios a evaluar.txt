@@ -1,0 +1,13 @@
+Criterios de evaluacion
+Sitio web para una organización 
+(Empresas, Colegios, etc.)
+1) Presentación
+2) Responsive (Menu y Galeria)
+3) Temas diferentes a plantilla 1 y 5
+4) Galerias
+5) Mapa de ubicación
+6) Redes sociales
+7) Buscador
+8) Formulario
+9) Nombre del autor
+10) Opcion1
