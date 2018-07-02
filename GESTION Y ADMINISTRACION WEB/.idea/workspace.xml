@@ -13,14 +13,37 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.47609755">
+    <splitter split-orientation="horizontal" split-proportion="0.6097561">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="Nosotros.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Nosotros.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="228">
-                  <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+                <state relative-caret-position="272">
+                  <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Nosotros.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="378">
+                  <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Contacto.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Contacto.scss">
+              <provider selected="true" editor-type-id="text-editor" />
+            </entry>
+          </file>
+          <file leaf-file-name="Contacto.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Contacto.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="191">
+                  <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
                 </state>
               </provider>
             </entry>
@@ -32,8 +55,26 @@
           <file leaf-file-name="General.css" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/General.css">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="432">
-                  <caret line="349" selection-start-line="349" selection-end-line="349" />
+                <state relative-caret-position="408">
+                  <caret line="162" column="8" selection-start-line="162" selection-start-column="8" selection-end-line="162" selection-end-column="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Productos.scss" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Productos.scss">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="561">
+                  <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Productos.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="799">
+                  <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="42" />
                 </state>
               </provider>
             </entry>
@@ -47,8 +88,8 @@
       <list>
         <option value="CSS File" />
         <option value="JavaScript File" />
-        <option value="HTML File" />
         <option value="SCSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -95,8 +136,10 @@
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Galeria.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/index.html" />
-        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/General.scss" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Nosotros.html" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Contacto.scss" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/General.scss" />
+        <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/Contacto.html" />
         <option value="$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss" />
       </list>
     </option>
@@ -684,26 +727,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
+  <component name="RunManager" selected="JavaScript Debug.Nosotros.html">
+    <configuration name="Nosotros.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/PROYECTO WEB/Prototipo/Nosotros.html" />
     <configuration name="Productos.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/PROYECTO WEB/Prototipo/Productos.html" />
     <configuration name="index.html (2)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/HTML5/index.html" />
     <configuration name="index.html (3)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/CLASE3_HTML5/PERFIL/index.html" />
     <configuration name="index.html (4)" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/PROYECTO WEB/Prototipo/index.html" />
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GESTION Y ADMINISTRACION WEB/Tarea_clase2/index.html" />
     <list>
-      <item itemvalue="JavaScript Debug.index.html" />
       <item itemvalue="JavaScript Debug.index.html (2)" />
       <item itemvalue="JavaScript Debug.index.html (3)" />
       <item itemvalue="JavaScript Debug.index.html (4)" />
       <item itemvalue="JavaScript Debug.Productos.html" />
+      <item itemvalue="JavaScript Debug.Nosotros.html" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.Nosotros.html" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.Productos.html" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html" />
       </list>
     </recent_temporary>
   </component>
@@ -759,11 +802,12 @@
       <workItem from="1529938797896" duration="4216000" />
       <workItem from="1529980171652" duration="8767000" />
       <workItem from="1530020819388" duration="119000" />
+      <workItem from="1530552167782" duration="5952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="144037000" />
+    <option name="totallyTimeSpent" value="149989000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -796,14 +840,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss" />
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/General.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2533">
-          <caret line="149" selection-start-line="149" selection-end-line="149" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -983,13 +1019,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Productos.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-166">
-          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Galeria.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="446">
@@ -1011,20 +1040,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="26" lean-forward="true" selection-start-line="8" selection-end-line="9" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/General.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-323">
@@ -1032,20 +1047,57 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/General.css">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/General.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="349" selection-start-line="349" selection-end-line="349" />
+        <state relative-caret-position="68">
+          <caret line="4" column="18" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Contacto.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Contacto.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Nosotros.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="44" column="36" selection-start-line="44" selection-start-column="36" selection-end-line="44" selection-end-column="36" />
+        <state relative-caret-position="272">
+          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss" />
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Productos.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/css/General.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="162" column="8" selection-start-line="162" selection-start-column="8" selection-end-line="162" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
