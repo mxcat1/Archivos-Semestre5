@@ -19,8 +19,8 @@
           <file leaf-file-name="Nosotros.html" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Nosotros.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="272">
-                  <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
+                <state relative-caret-position="17">
+                  <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
                 </state>
               </provider>
             </entry>
@@ -28,21 +28,16 @@
           <file leaf-file-name="Nosotros.scss" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
-                  <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+                <state relative-caret-position="1173">
+                  <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
                 </state>
               </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="Contacto.scss" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Contacto.scss">
-              <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
           <file leaf-file-name="Contacto.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Contacto.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="191">
+                <state relative-caret-position="425">
                   <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
                 </state>
               </provider>
@@ -65,7 +60,7 @@
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Productos.scss">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="561">
-                  <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+                  <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -73,7 +68,7 @@
           <file leaf-file-name="Productos.html" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="799">
+                <state relative-caret-position="1411">
                   <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="42" />
                 </state>
               </provider>
@@ -637,7 +632,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -645,42 +639,11 @@
               <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
               <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="GESTION Y ADMINISTRACION WEB" type="b2602c69:ProjectViewProjectNode" />
-              <item name="GESTION Y ADMINISTRACION WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="PROYECTO WEB" type="462c0819:PsiDirectoryNode" />
-              <item name="Prototipo" type="462c0819:PsiDirectoryNode" />
-              <item name="scss" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -803,11 +766,12 @@
       <workItem from="1529980171652" duration="8767000" />
       <workItem from="1530020819388" duration="119000" />
       <workItem from="1530552167782" duration="5952000" />
+      <workItem from="1530634019035" duration="21000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="149989000" />
+    <option name="totallyTimeSpent" value="150010000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -840,6 +804,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1411">
+          <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/_mixin-estructura.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1056,31 +1027,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Contacto.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
+        <state relative-caret-position="425">
           <caret line="25" column="50" selection-start-line="25" selection-start-column="50" selection-end-line="25" selection-end-column="50" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Contacto.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Nosotros.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="69" column="19" lean-forward="true" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+        <state relative-caret-position="1173">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Nosotros.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="17">
+          <caret line="19" column="16" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="33" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/Productos.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
+        <state relative-caret-position="1411">
           <caret line="83" column="27" selection-start-line="83" selection-start-column="27" selection-end-line="83" selection-end-column="42" />
         </state>
       </provider>
@@ -1088,7 +1056,7 @@
     <entry file="file://$PROJECT_DIR$/PROYECTO WEB/Prototipo/scss/Productos.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
-          <caret line="33" column="21" lean-forward="true" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
         </state>
       </provider>
     </entry>
