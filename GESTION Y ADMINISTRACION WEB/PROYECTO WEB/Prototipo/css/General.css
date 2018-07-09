@@ -319,31 +319,47 @@
     flex-direction: column;
     width: 100%;
     background: #e6e6eb; }
-    #nosotros-contenedor #datos-empresa #resena-emp {
-      display: flex;
+    #nosotros-contenedor #datos-empresa #resena-emp, #nosotros-contenedor #datos-empresa #identidad-emp, #nosotros-contenedor #datos-empresa #mision-vision-emp, #nosotros-contenedor #datos-empresa #valores-emp, #nosotros-contenedor #datos-empresa #organigrama-emp {
+      display: none;
       width: 95%;
       padding: 10px; }
-      #nosotros-contenedor #datos-empresa #resena-emp #texto-resena {
+      #nosotros-contenedor #datos-empresa #resena-emp .texto, #nosotros-contenedor #datos-empresa #identidad-emp .texto, #nosotros-contenedor #datos-empresa #mision-vision-emp .texto, #nosotros-contenedor #datos-empresa #valores-emp .texto, #nosotros-contenedor #datos-empresa #organigrama-emp .texto {
         width: 100%;
         padding: 30px;
         border: #5081ff;
         border-style: double hidden hidden double; }
-        #nosotros-contenedor #datos-empresa #resena-emp #texto-resena h2 {
+        #nosotros-contenedor #datos-empresa #resena-emp .texto h2, #nosotros-contenedor #datos-empresa #identidad-emp .texto h2, #nosotros-contenedor #datos-empresa #mision-vision-emp .texto h2, #nosotros-contenedor #datos-empresa #valores-emp .texto h2, #nosotros-contenedor #datos-empresa #organigrama-emp .texto h2 {
           text-align: center;
           font-family: sans-serif; }
-        #nosotros-contenedor #datos-empresa #resena-emp #texto-resena p {
+        #nosotros-contenedor #datos-empresa #resena-emp .texto p, #nosotros-contenedor #datos-empresa #identidad-emp .texto p, #nosotros-contenedor #datos-empresa #mision-vision-emp .texto p, #nosotros-contenedor #datos-empresa #valores-emp .texto p, #nosotros-contenedor #datos-empresa #organigrama-emp .texto p {
           text-align: justify;
           font-family: sans-serif; }
-      #nosotros-contenedor #datos-empresa #resena-emp #img-resena {
+      #nosotros-contenedor #datos-empresa #resena-emp .img, #nosotros-contenedor #datos-empresa #identidad-emp .img, #nosotros-contenedor #datos-empresa #mision-vision-emp .img, #nosotros-contenedor #datos-empresa #valores-emp .img, #nosotros-contenedor #datos-empresa #organigrama-emp .img {
         padding: 20px;
         box-sizing: border-box;
         align-self: center; }
-        #nosotros-contenedor #datos-empresa #resena-emp #img-resena img {
+        #nosotros-contenedor #datos-empresa #resena-emp .img img, #nosotros-contenedor #datos-empresa #identidad-emp .img img, #nosotros-contenedor #datos-empresa #mision-vision-emp .img img, #nosotros-contenedor #datos-empresa #valores-emp .img img, #nosotros-contenedor #datos-empresa #organigrama-emp .img img {
           width: 100%;
           border: #0b3372 5px;
           border-style: outset;
           border-radius: 40%; }
-    #nosotros-contenedor #datos-empresa #identidad-emp {
-      display: flex; }
+    #nosotros-contenedor #datos-empresa #mision-vision-emp .texto, #nosotros-contenedor #datos-empresa #valores-emp .texto {
+      border-style: double hidden hidden hidden; }
+    #nosotros-contenedor #datos-empresa #organigrama-emp .img img {
+      border: none;
+      border-radius: 0%; }
+    #nosotros-contenedor #datos-empresa #logo-emp {
+      text-align: center; }
+
+#contacto-contenedor {
+  display: flex;
+  width: 100%; }
+  #contacto-contenedor #formulario-contacto {
+    padding: 50px; }
+  #contacto-contenedor #mapa-contacto {
+    position: relative;
+    left: 50px;
+    top: 100px;
+    height: 100%; }
 
 /*# sourceMappingURL=General.css.map */

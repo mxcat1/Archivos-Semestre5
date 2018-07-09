@@ -7,6 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Nosotros</title>
     <link rel="stylesheet" href="css/General.css">
+    <script src="js/jquery-3.3.1.js"></script>
     <script src="js/js-principal.js"></script>
 </head>
 <body>
@@ -25,7 +26,7 @@
                     <li><h3><a href="Productos.html">Productos</a></h3></li>
                     <li><h3><a href="Galeria.html">Galeria</a></h3></li>
                     <li><h3><a href="Nosotros.html">Nosotros</a></h3></li>
-                    <li><h3><a href="">Contacto</a></h3></li>
+                    <li><h3><a href="Contacto.html">Contacto</a></h3></li>
                 </ul>
             </div>
         </div>
@@ -42,16 +43,16 @@
         <div id="sub-menu">
             <h2>QUIENES SOMOS</h2>
             <ul>
-                <a href="#resena-emp">Reseña</a>
-                <a href="">Identidad</a>
-                <a href="">Mision & Vision</a>
-                <a href="">Valores</a>
-                <a href="">Organigrama</a>
+                <a id="ren-menu1" href="#resena-emp">Reseña</a>
+                <a id="ren-menu2" href="#identidad-emp">Identidad</a>
+                <a id="ren-menu3" href="#mision-vision-emp">Mision & Vision</a>
+                <a id="ren-menu4" href="#valores-emp">Valores</a>
+                <a id="ren-menu5" href="#organigrama-emp">Organigrama</a>
             </ul>
         </div>
         <div id="datos-empresa">
             <div id="resena-emp">
-                <div id="texto-resena">
+                <div class="texto">
                     <h2>Reseña</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -69,15 +70,15 @@
                         Accusantium, itaque!
                     </p>
                 </div>
-                <div id="img-resena">
+                <div class="img">
                     <img src="img/Tienda-velas.PNG" alt="">
                 </div>
             </div>
             <div id="identidad-emp">
-                <div id="img-identidad">
-                    <img src="" alt="">
+                <div class="img">
+                    <img src="img/identidad.jpg" alt="">
                 </div>
-                <div id="texto-identidad">
+                <div class="texto">
                     <h2>Identidad</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -97,7 +98,7 @@
                 </div>
             </div>
             <div id="mision-vision-emp">
-                <div id="texto-mision">
+                <div class="texto">
                     <h2>Mision</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -108,10 +109,7 @@
                         delectus deleniti deserunt dolor dolore
                     </p>
                 </div>
-                <div id="img-mision-vision">
-                    <img src="" alt="">
-                </div>
-                <div id="texto-vision">
+                <div class="texto">
                     <h2>Vision</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -124,7 +122,7 @@
                 </div>
             </div>
             <div id="valores-emp">
-                <div id="texto-valores1">
+                <div class="texto">
                     <h2>Solidaridad</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -138,10 +136,7 @@
                         obcaecati omnis placeat quis vero, vitae
                     </p>
                 </div>
-                <div id="img-valores">
-                    <img src="" alt="">
-                </div>
-                <div id="textvalores2">
+                <div class="texto">
                     <h2>Responsabilidad</h2>
                     <p>Lorem ipsum dolor sit amet, consectetur
                         adipisicing elit. Ab architecto delectus,
@@ -157,9 +152,12 @@
                 </div>
             </div>
             <div id="organigrama-emp">
-                <div id="img-organigrama">
-                    <img src="" alt="">
+                <div class="img">
+                    <img src="img/organigrama.JPG" alt="">
                 </div>
+            </div>
+            <div id="logo-emp">
+                <img src="img/logo-final1.png" alt="">
             </div>
         </div>
     </section>

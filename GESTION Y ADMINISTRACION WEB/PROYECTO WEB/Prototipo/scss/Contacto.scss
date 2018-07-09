@@ -1,0 +1,13 @@
+#contacto-contenedor{
+  display: flex;
+  width: 100%;
+  #formulario-contacto{
+    padding: 50px;
+  }
+  #mapa-contacto{
+    position: relative;
+    left: 50px;
+    top: 100px;
+    height: 100%;
+  }
+}
