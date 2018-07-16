@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<c2project>
+    <name>Velas La Superior Game</name>
+    <description></description>
+    <version>1.0.0.0</version>
+    <author></author>
+    <author-email></author-email>
+    <author-website>http://</author-website>
+    <app-id>com.mycompany.myapp</app-id>
+    <unique-id>yff3q86r43c2</unique-id>
+    <saved-with-version>23900</saved-with-version>
+    <used-plugins>
+        <plugin author="Scirra" id="Tilemap" version="1">Tilemap</plugin>
+    </used-plugins>
+    <used-behaviors />
+    <used-effects />
+    <configurations>
+        <configuration exporter-descname="HTML5" exporter-id="html5" name="HTML5" />
+    </configurations>
+    <window-size>
+        <width>706</width>
+        <height>482</height>
+    </window-size>
+    <pixel-rounding>0</pixel-rounding>
+    <preview-effects>1</preview-effects>
+    <use-loader-layout>0</use-loader-layout>
+    <configuration-settings>
+        <prop name="Clear background">Yes</prop>
+        <prop name="Downscaling">Medium quality</prop>
+        <prop name="Enable WebGL">On</prop>
+        <prop name="Fullscreen in browser">Letterbox scale</prop>
+        <prop name="Fullscreen scaling">High quality</prop>
+        <prop name="Loader style">Construct 2 splash</prop>
+        <prop name="Orientations">Any</prop>
+        <prop name="Pause on unfocus">No</prop>
+        <prop name="Physics engine">Box2D asm.js</prop>
+        <prop name="Preload sounds">Yes</prop>
+        <prop name="Preview browser">(default)</prop>
+        <prop name="Sampling">Linear</prop>
+        <prop name="Use high-DPI display">Yes</prop>
+    </configuration-settings>
+    <object-folder>
+        <object-type name="Fondo" sid="338042796771289">
+            <plugin id="Tilemap" />
+            <texture original-source="E:\Honorio Semestre V\DISENO WEB\sesion13_archivos(Plantillas)\Juego para pagina\Sprites\PathAndObjects.png" />
+            <tiles>
+                <tile id="12">
+                    <collision-poly>
+                        <point x="0.53125" y="0.0078125" />
+                        <point x="1" y="0" />
+                        <point x="1" y="1" />
+                        <point x="0.492188" y="0.992188" />
+                    </collision-poly>
+                </tile>
+                <tile id="28">
+                    <collision-poly>
+                        <point x="0.515625" y="0" />
+                        <point x="1" y="0" />
+                        <point x="1" y="1" />
+                        <point x="0.523438" y="0.992188" />
+                    </collision-poly>
+                </tile>
+                <tile id="44">
+                    <collision-poly>
+                        <point x="0.492188" y="0.0078125" />
+                        <point x="1" y="0" />
+                        <point x="1" y="1" />
+                        <point x="0.5" y="1" />
+                    </collision-poly>
+                </tile>
+                <tile id="138">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="0.4375" y="0.078125" />
+                        <point x="0.539063" y="0.414063" />
+                        <point x="0.964844" y="0.496094" />
+                        <point x="1" y="1" />
+                        <point x="0" y="1" />
+                    </collision-poly>
+                </tile>
+                <tile id="153">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="1" y="1" />
+                        <point x="0.820313" y="0.515625" />
+                        <point x="0" y="0.496094" />
+                    </collision-poly>
+                </tile>
+                <tile id="154">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="0.796875" y="0.984375" />
+                        <point x="0.53125" y="0.914063" />
+                        <point x="0" y="0.890625" />
+                    </collision-poly>
+                </tile>
+                <tile id="188">
+                    <collision-poly>
+                        <point x="0.265625" y="0.132813" />
+                        <point x="0.71875" y="0.132813" />
+                        <point x="0.914063" y="0.992188" />
+                        <point x="0.125" y="0.96875" />
+                    </collision-poly>
+                </tile>
+                <tile id="204">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="0.703125" y="0.265625" />
+                        <point x="0.390625" y="0.289063" />
+                    </collision-poly>
+                </tile>
+            </tiles>
+        </object-type>
+        <object-type name="detalles" sid="404043409691299">
+            <plugin id="Tilemap" />
+            <texture original-source="E:\Honorio Semestre V\DISENO WEB\sesion13_archivos(Plantillas)\Juego para pagina\Sprites\PathAndObjects.png" />
+            <tiles>
+                <tile id="137">
+                    <collision-poly>
+                        <point x="0.492188" y="0.601563" />
+                        <point x="0.570313" y="0.0703125" />
+                        <point x="0.992188" y="0.0703125" />
+                        <point x="1" y="1" />
+                        <point x="0.0078125" y="0.984375" />
+                        <point x="0.0195313" y="0.6875" />
+                    </collision-poly>
+                </tile>
+            </tiles>
+        </object-type>
+        <object-type name="Casas" sid="446737240925931">
+            <plugin id="Tilemap" />
+            <texture original-source="E:\Honorio Semestre V\DISENO WEB\sesion13_archivos(Plantillas)\Juego para pagina\Sprites\town_rpg_pack\graphics\transparent-bg-tiles.png" />
+            <tiles>
+                <tile id="4">
+                    <collision-poly>
+                        <point x="0.492188" y="0.46875" />
+                        <point x="1" y="0.5" />
+                        <point x="1" y="1" />
+                        <point x="0.476563" y="1" />
+                    </collision-poly>
+                </tile>
+                <tile id="18">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="0.5" y="0" />
+                        <point x="0.492188" y="0.507813" />
+                        <point x="1" y="0.5" />
+                        <point x="1" y="1" />
+                        <point x="0" y="1" />
+                    </collision-poly>
+                </tile>
+                <tile id="30">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="0.996094" y="0.515625" />
+                        <point x="0.476563" y="0.53125" />
+                        <point x="0.5" y="1" />
+                        <point x="0" y="1" />
+                    </collision-poly>
+                </tile>
+                <tile id="37">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="0.976563" y="0.515625" />
+                        <point x="0.5625" y="0.542969" />
+                        <point x="0.488281" y="0.693359" />
+                        <point x="0.0546875" y="0.6875" />
+                    </collision-poly>
+                </tile>
+                <tile id="38">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="1" y="0.734375" />
+                        <point x="0.535156" y="0.699219" />
+                        <point x="0.507813" y="0.539063" />
+                        <point x="0" y="0.484375" />
+                    </collision-poly>
+                </tile>
+                <tile id="39">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="0.984375" y="0.484375" />
+                        <point x="0.515625" y="0.5" />
+                        <point x="0.507813" y="0.710938" />
+                        <point x="0" y="0.71875" />
+                    </collision-poly>
+                </tile>
+                <tile id="40">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="1" y="0" />
+                        <point x="1" y="0.5" />
+                        <point x="0" y="0.476563" />
+                    </collision-poly>
+                </tile>
+                <tile id="41">
+                    <collision-poly>
+                        <point x="0" y="0" />
+                        <point x="0.460938" y="0" />
+                        <point x="0.460938" y="0.515625" />
+                        <point x="0" y="0.515625" />
+                    </collision-poly>
+                </tile>
+            </tiles>
+        </object-type>
+    </object-folder>
+    <families />
+    <layout-folder>
+        <layout>Pagina Inicio.xml</layout>
+        <layout>Instrucciones.xml</layout>
+        <layout>Puntuaciones.xml</layout>
+        <layout>Inicio.xml</layout>
+    </layout-folder>
+    <event-folder>
+        <event-sheet>Event sheet 1.xml</event-sheet>
+        <event-sheet>Event sheet 2.xml</event-sheet>
+        <event-sheet>Event sheet 3.xml</event-sheet>
+    </event-folder>
+    <global-instances />
+    <sounds-folder />
+    <music-folder />
+    <files-folder>
+        <file-folder name="Icons">
+            <file name="icon-16.png" />
+            <file name="icon-32.png" />
+            <file name="icon-114.png" />
+            <file name="icon-128.png" />
+            <file name="icon-256.png" />
+            <file name="loading-logo.png" />
+        </file-folder>
+    </files-folder>
+</c2project>
