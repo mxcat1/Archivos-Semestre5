@@ -6,6 +6,7 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    <script src="jquery.js"></script>
     <script !src="">
         function validar(){
             let nombre=document.getElementById("txtnombre").value.trim()
@@ -15,16 +16,16 @@
             let sexo1=document.getElementById("femenino").value
             let preferencias=document.getElementById("premusical").value
             alert(sexo)
-            if  (nombre==""){
+            if  (nombre===""){
                 alert("Escriba Su nombre")
                 return false
             }
-            if  (ape==""){
+            if  (ape===""){
 
                 alert("Escriba Su apellido")
                 return false
             }
-            if  (edad==""){
+            if  (edad===""){
                 alert("Escriba Su edad")
                 return false
 
@@ -34,7 +35,7 @@
                 return false
             }
 
-            if  (sexo==on || sexo1==on){
+            if  (sexo===on || sexo1===on){
 
                 alert("seleccione un sexo")
                 return false
